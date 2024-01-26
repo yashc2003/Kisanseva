@@ -1,5 +1,6 @@
 import React from "react";
 import "./../../Componant/Banner/Banner2.css"
+import Bannerimg from "./../assets/bannerlogo.png"
 function Banner2() {
     return (
     <div class="banner2">
@@ -9,7 +10,7 @@ function Banner2() {
    </div>
    <button class="banner2-button">SUBSCRIBE</button>
    <div class="banner2-logo">
-       <img class="banner2-img" src="https://o.remove.bg/uploads/d1a38541-fddd-4725-9d98-94342d136b22/images__1.png" alt=""/>
+       <img class="banner2-img" src={Bannerimg} alt=""/>
    </div>
   </div>
 
