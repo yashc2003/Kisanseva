@@ -4,7 +4,7 @@
     justify-content: center;
     column-gap: 15px;
     row-gap: 15px;
-    
+    margin-top: 50px;
 
 }
 .card{
@@ -70,12 +70,13 @@ button{
     }
     .card{
     position: relative;
-    height: 230px;
-    width: 160px;
+    height: 250px;
+    width: 180px;
+
     }
     .card-img{
-    height: 230px;
-    width: 160px;
+    height: 250px;
+    width: 180px;
     }
     .card-text{
         position: absolute;
