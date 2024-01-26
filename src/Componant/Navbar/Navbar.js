@@ -11,10 +11,10 @@ function Navbar() {
       <div className="navbar">
         <img src= {logo} alt="" className="logo"/>
       <ul>
-        <li>home</li>
-        <li>product </li>
-        <li>feture</li>
-        <li>about</li>
+        <li>crop</li>
+        <li>product & services </li>
+        <li>Deparmental help</li>
+        <li>contact us</li>
       </ul>
       <div className="searchbox">
      <input type="text" placeholder="search"/>
