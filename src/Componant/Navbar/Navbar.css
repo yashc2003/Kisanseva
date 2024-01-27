@@ -39,13 +39,13 @@ ul li  {
 .ul li ul.dropdown li{
     display: block;
 }
-.ul li ul.dropdown{
-    width: 100%;
-    background: #8df39b;
-    position: absolute;
-    z-index: 999;
-    display: none;
+.dropdown-item{
+    
+    display: inline-block;
 }
+ .dropdown-item:hover{
+  background-color: #08f01c;
+ }
 .toogle-icon{
     width: 50px;
     cursor: pointer;
