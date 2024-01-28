@@ -1,6 +1,6 @@
 import React from "react";
 import './../../Componant/Footer/Footer.css'
-import Companylogo from "./../assets/kpng.png"
+import Companylogo from "./../assets/kpng1.png"
 function Footer () {
     return (
       <div>
@@ -28,15 +28,6 @@ function Footer () {
                     <a class="text-black">Plant Protection</a>
                   </p>
                   <p>
-                    <a class="text-black">Aqua Culture & Animal Nutrition</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Other Products</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Speciality Nutrients</a>
-                  </p>
-                  <p>
                     <a class="text-black">Water Soluble NPK</a>
                   </p>
                   <p>
@@ -54,9 +45,6 @@ function Footer () {
                     <a class="text-black">Home</a>
                   </p>
                   <p>
-                    <a class="text-black">Knowledge Centre</a>
-                  </p>
-                  <p>
                     <a class="text-black">Hydroponics & Consultancy</a>
                   </p>
                   <p>
@@ -64,9 +52,6 @@ function Footer () {
                   </p>
                   <p>
                     <a class="text-black">News & Updates</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Forms/Formats</a>
                   </p>
                   <p>
                     <a class="text-black">FAQs</a>

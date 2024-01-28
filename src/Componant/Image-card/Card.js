@@ -106,7 +106,7 @@ function Card() {
    <div>
       <div class="card">
         <img class="card-img"src="https://media.gettyimages.com/id/1185374212/photo/pomegranates-cultivation-in-south-apulia.jpg?s=612x612&w=0&k=20&c=89cvT8TCxjeAxKG75zIEe7XeuV60gXzxgv9DNfIJ9oo=" alt=".."/>
-       <div class="card-text">
+       <div class="card-text1">
        <h2 class="h2">POMEGRANATE</h2>
         <button>Read More</button>
        </div>
@@ -133,7 +133,7 @@ function Card() {
 <div>
   <div class="card">
     <img class="card-img"src="https://media.gettyimages.com/id/1399390336/photo/high-angle-view-of-watermelon-on-wooden-table.jpg?s=612x612&w=0&k=20&c=cC52fNjA9v8IOLEDPHEY3nlqPodBbeKft0Hhxg9K-Og=" alt=".."/>
-   <div class="card-text">
+   <div class="card-text1">
    <h2 class="h2">WATERMELON</h2>
     <button>Read More</button>
    </div>
@@ -178,7 +178,7 @@ function Card() {
 <div>
   <div class="card">
     <img class="card-img"src="https://media.gettyimages.com/id/155419207/photo/close-up-of-cauliflower-growing-in-field.jpg?s=612x612&w=0&k=20&c=y90xUHmWBxLpKa9CixkUzCrWv1G71KPrAlrYOG5W9aQ=" alt=".."/>
-   <div class="card-text">
+   <div class="card-text1">
    <h2 class="h2">CAULIFLOWER</h2>
     <button>Read More</button>
    </div>
