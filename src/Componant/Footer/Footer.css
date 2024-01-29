@@ -2,12 +2,13 @@
     margin-top: 100px;
     background-color: rgba(176, 226, 195, 0.322);
     max-width: 1320px;
-    height: 520px;
+    height: 450px;
 }
 .companylogo{
-    height: 250px;
-    width: 350px;
+    height: 180px;
+    width: 220px;
     margin-top: 2px;
+    margin-bottom: 5px;
 }
 .text-uppercase{
     color: rgba(27, 165, 9, 0.918);
@@ -17,4 +18,10 @@
 .footerlogo{
     height: 30px;
     width: 30px;
+}
+@media screen and (max-width: 991px) {
+    .footerlogo{
+        height: 15px;
+        width: 15px;
+    }
 }

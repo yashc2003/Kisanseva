@@ -1,6 +1,6 @@
 import React from "react";
 import './../../Componant/Footer/Footer.css'
-import Companylogo from "./../assets/kpng.png"
+import Companylogo from "./../assets/kpng1.png"
 function Footer () {
     return (
       <div>
@@ -22,25 +22,16 @@ function Footer () {
                 <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                   <h6 class="text-uppercase mb-4  ">Our Product</h6>
                   <p>
-                    <a class="text-black">Micronutrients</a>
+                    <a class="text-black" href="/micronutrients">Micronutrients</a>
                   </p>
                   <p>
-                    <a class="text-black">Plant Protection</a>
+                    <a class="text-black" href="/plantprotection">Plant Protection</a>
                   </p>
                   <p>
-                    <a class="text-black">Aqua Culture & Animal Nutrition</a>
+                    <a class="text-black" href="/watersoluble">Water Soluble NPK</a>
                   </p>
                   <p>
-                    <a class="text-black">Other Products</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Speciality Nutrients</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Water Soluble NPK</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Hydroponics and Consultancy</a>
+                    <a class="text-black" href="/hydroponic">Hydroponics and Consultancy</a>
                   </p>
                 </div>
       
@@ -51,25 +42,17 @@ function Footer () {
                     Quick Links
                   </h6>
                   <p>
-                    <a class="text-black">Home</a>
+                    <a class="text-black" href="/home">Home</a>
+                  </p>
+                  
+                  <p>
+                    <a class="text-black" href="/blogsvideo">Blogs & videos</a>
                   </p>
                   <p>
-                    <a class="text-black">Knowledge Centre</a>
+                    <a class="text-black" href="..">News & Updates</a>
                   </p>
                   <p>
-                    <a class="text-black">Hydroponics & Consultancy</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Blogs & videos</a>
-                  </p>
-                  <p>
-                    <a class="text-black">News & Updates</a>
-                  </p>
-                  <p>
-                    <a class="text-black">Forms/Formats</a>
-                  </p>
-                  <p>
-                    <a class="text-black">FAQs</a>
+                    <a class="text-black" href="..">FAQs</a>
                   </p>
                 </div>
       

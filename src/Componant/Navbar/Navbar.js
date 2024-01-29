@@ -1,63 +1,61 @@
 import React from "react";
 import "./../../Componant/Navbar/Navbar.css"
-import search from "./../../Componant/assets/search-w.png"
-import toogleicon from "./../../Componant/assets/day.png"
-import logo from "./../../Componant/assets/k2.png"
-
+import Navbarimag from "./../../Componant/assets/kpng1.png";
 
 
 function Navbar() {
     return (
-      <div className="navbar">
-        <img src= {logo} alt="" className="logo"/>
-      <ul>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      
+  <nav class="navbar navbar-expand-lg ">
+  <div class="container-fluid">
+       <img class="navbar-img" src={Navbarimag} alt=".."/>
+       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarScroll">
+      <ul class="navbar-nav me-auto my-2 my-lg-0 ">
+        <li class="nav-item">
+          <a class="nav-link text-black ms-2 me-2 " aria-disabled="true" href="/home">Crops</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-black" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Product & Services
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Organic And Bio Product</a></li>
-            <li><a class="dropdown-item" href="#">Crop Specification</a></li>
-            <li><a class="dropdown-item" href="#">Other Product</a></li>
+            <li><a class="dropdown-item" href="/micronutrients">Micronutrients</a></li>
+            <li><a class="dropdown-item" href="/watersoluble">Water Soluble NPK</a></li>
+            <li><a class="dropdown-item" href="/organicproduct">Organic & Bio Product</a></li>
+            <li><a class="dropdown-item" href="/cropspecific">Crop Specific</a></li>
+            <li><a class="dropdown-item" href="/fertilizer">Slow Release Fertilizers Pastilles</a></li>
+            <li><a class="dropdown-item" href="/plantprotection">Plant Protectoin</a></li>
           </ul>
-        </li> <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Crops
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Cottan</a></li>
-            <li><a class="dropdown-item" href="#">Wheat</a></li>
-            <li><a class="dropdown-item" href="#">Soyabin</a></li>
-          </ul>
-        </li> <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            About Us
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Company Owerview</a></li>
-            <li><a class="dropdown-item" href="#">History</a></li>
-            <li><a class="dropdown-item" href="#">Milestone</a></li>
-          </ul>
+        </li>
+        
+       <li class="nav-item">
+          <a class="nav-link text-black ms-2" aria-disabled="true" href="/equipment">Equipment</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Contact 
+          <a class="nav-link dropdown-toggle text-black ms-2" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            About us
           </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Watsapp</a></li>
-            <li><a class="dropdown-item" href="#">Mail</a></li>
-            <li><a class="dropdown-item" href="#">contact</a></li>
+          <ul class="dropdown-menu text-black">
+            <li><a class="dropdown-item" href="/infrastracture">Infrastracture</a></li>
+            <li><a class="dropdown-item" href="/hydroponic">Hydroponic & Consultancy</a></li>
+            <li><a class="dropdown-item" href="/blogsvideo">Blogs & Video</a></li>
           </ul>
+        </li>  
+    
+        <li class="nav-item">
+          <a class="nav-link text-black ms-2" aria-disabled="true" href="/contactus">Contact us</a>
         </li>
-       
       </ul>
-      <div className="searchbox">
-     <input type="text" placeholder="search"/>
-     <img src={search} alt="" className="search"/>
-      </div>
-      
-        </div>
-      
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
     )
   }
   
