@@ -15,7 +15,7 @@ function Navbar() {
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="navbar-nav me-auto my-2 my-lg-0 ">
         <li class="nav-item">
-          <a class="nav-link text-black ms-2 me-2 " aria-disabled="true" href="/home">Crops</a>
+          <a class="nav-link text-black ms-2 me-2 " aria-disabled="true" href="..">Crops</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-black" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">

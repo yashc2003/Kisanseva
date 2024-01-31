@@ -1,10 +1,10 @@
 .container {
     margin-top: 100px;
-    background-color: rgba(176, 226, 195, 0.322);
+    background-color: rgba(164, 219, 235, 0.322);
     max-width: 1320px;
     height: 450px;
 }
-.companylogo{
+.logoimg{
     height: 180px;
     width: 220px;
     margin-top: 2px;
@@ -23,5 +23,11 @@
     .footerlogo{
         height: 15px;
         width: 15px;
+    }
+    .container {
+        margin-top: 50px;
+        background-color: rgba(176, 226, 195, 0.322);
+        max-width: 370px;
+        height: 1200px;
     }
 }

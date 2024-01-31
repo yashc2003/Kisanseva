@@ -58,20 +58,20 @@ button{
         display:grid;
         grid-template-columns: auto auto ;
         justify-content: center;
-        column-gap: 15px;
-        row-gap: 15px;
+        column-gap: 10px;
+        row-gap: 10px;
         
     
     }
     .card{
     position: relative;
-    height: 250px;
-    width: 180px;
+    height: 230px;
+    width: 160px;
 
     }
     .card-img{
-    height: 250px;
-    width: 180px;
+    height: 230px;
+    width: 160px;
     }
     .card-text{
         position: absolute;
@@ -86,7 +86,6 @@ button{
         position: absolute;
         top: 10px;
         padding: 10px;
-        margin-left: 7px;
         margin-top: 80px;
         background: rgba(0, 0, 0, 0.514);
     

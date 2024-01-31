@@ -1,57 +1,31 @@
-.banner{
-    width: 100%;
-    height: 380px;
-    position: relative;
-  }
-  
-  .banner-img{
-      width: 100%;
-      height: 380px;
-      border-radius: 100px 0px 100px 0px;
-  }
-  
-  .banner-text{
-  position: absolute;
-  top: 100px;
-  margin-left: 150px;
-  }
-  .banner-text-h1{
-      color: rgba(171, 201, 167, 0.767);
-      font-size: 60px;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-      padding-left: 30px;
-  }
-  .banner-text-h3{
-      color:rgba(250, 154, 29, 0.856);
-      font-size: 25px;
-      font-family: cursive;
-      
-  }
+.d-block{
+    height: 500px;
+}
   
   @media screen and (max-width: 991px) {
   
       .banner{
-          width: 500px;
-          height: 200px;
+          width: 370px;
+          height: 150px;
           position: relative;
         }
         
         .banner-img{
-            width: 500px;
-            height: 200px;
+            width: 370px;
+            height: 150px;
             border-radius: 50px 0px 50px 0px;
         }
         
         .banner-text{
         position: absolute;
         top: 25px;
-        margin-left: 70px;
+        margin-left: 20px;
         }
         .banner-text-h1{
-            color: rgba(171, 201, 167, 0.767);
-            font-size: 30px;
+            color: rgba(171, 201, 167, 0.904);
+            font-size: 20px;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
-            padding-left: 15px;
+            padding-left: 5px;
         }
         .banner-text-h3{
             color:rgba(250, 154, 29, 0.856);
