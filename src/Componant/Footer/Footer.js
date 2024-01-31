@@ -40,7 +40,7 @@ function Footer () {
                     Quick Links
                   </h6>
                   <p>
-                    <a class="text-black" href="/home">Home</a>
+                    <a class="text-black" href="..">Home</a>
                   </p>
                   
                   <p>
