@@ -15,8 +15,9 @@ import Blogsvideo from './view/About us/Blogs&video';
 import Contactus from './view/Contact us/Contactus';
 
 const router = createBrowserRouter([
+  
   {
-    path: '/home',
+    path: '/',
     element: <Home />
   },
   {

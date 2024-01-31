@@ -1,6 +1,6 @@
 import React from "react";
 import './../../Componant/Footer/Footer.css'
-import Companylogo from "./../assets/kpng1.png"
+import logoimg from "./../assets/kpng1.png"
 function Footer () {
     return (
       <div>
@@ -10,11 +10,9 @@ function Footer () {
             <section class="">
               <div class="row">
                 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
-                  <img class="companylogo" src={Companylogo}/>
+                  <img class="logoimg" src={logoimg} alt=".."/>
                   <p class="text-black">
-                    Here you can use rows and columns to organize your footer
-                    content. Lorem ipsum dolor sit amet, consectetur adipisicing
-                    elit.
+                  Product information provided is for reference purposes only. We strongly recommend users to refer to and follow label directions.
                   </p>
                 </div>
       
@@ -83,24 +81,24 @@ function Footer () {
       
                 <div class="col-md-5 col-lg-4 ml-lg-0 text-center text-md-end">
                 
-                  <a class="btn btn-outline-light btn-floating m-1 text-black" role="button">
+                  <a class="btn btn-outline-light btn-floating m-1 text-black" href=".." role="button">
                      <i class="fab fa-facebook-f"></i>
-                    <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/1409/1409943.png"/></a>
+                    <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/1409/1409943.png" alt=".."/></a>
       
                   
-                  <a class="btn btn-outline-light btn-floating m-1 text-black" role="button">
+                  <a class="btn btn-outline-light btn-floating m-1 text-black" href=".." role="button">
                      <i class="fab fa-twitter"></i>
-                     <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/1409/1409937.png"/></a>
+                     <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/1409/1409937.png" alt=".."/></a>
       
                   
-                  <a class="btn btn-outline-light btn-floating m-1 text-black" role="button">
+                  <a class="btn btn-outline-light btn-floating m-1 text-black" href=".." role="button">
                      <i class="fab fa-linkdin"></i>
-                    <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
+                    <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt=".."/></a>
       
           
-                  <a class="btn btn-outline-light btn-floating m-1 text-black" role="button">
+                  <a class="btn btn-outline-light btn-floating m-1 text-black" href=".." role="button">
                      <i class="fab fa-Yuotube"></i>
-                    <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png"/></a>
+                    <img class="footerlogo" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" alt=".."/></a>
                 </div>
               </div>
             </section>
