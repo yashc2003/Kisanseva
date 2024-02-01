@@ -19,6 +19,9 @@
     height: 30px;
     width: 30px;
 }
+.text-black1{
+    margin-top: 20%;
+}
 @media screen and (max-width: 991px) {
     .footerlogo{
         height: 15px;
