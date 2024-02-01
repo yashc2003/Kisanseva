@@ -1,37 +1,48 @@
-.d-block{
+.card-slider{
+    position: relative;
     height: 500px;
-}
-  
-  @media screen and (max-width: 991px) {
-  
-      .banner{
-          width: 370px;
-          height: 150px;
-          position: relative;
-        }
-        
-        .banner-img{
-            width: 370px;
-            height: 150px;
-            border-radius: 50px 0px 50px 0px;
-        }
-        
-        .banner-text{
-        position: absolute;
-        top: 25px;
-        margin-left: 20px;
-        }
-        .banner-text-h1{
-            color: rgba(171, 201, 167, 0.904);
-            font-size: 20px;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-            padding-left: 5px;
-        }
-        .banner-text-h3{
-            color:rgba(250, 154, 29, 0.856);
-            font-size: 12px;
-            font-family: cursive;
+    width: 100%;
+    }
+    .card-slider-img{
+    height: 500px;
+    width: 100%;
+    }
+    
+   .h11{
+        color: rgba(240, 205, 48, 0.938);
+        font-size: 40px;
+        width: 650px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .paragraph{
+        color: rgba(250, 246, 246, 0.856);
+        font-size: 18px;
+        width: 650px;
+        padding-left: 60px;
+    }
+
+    @media screen and (max-width: 991px) {
+
+        .card-slider{
+            position: relative;
+            height: 250px;
+            width: 100%;
+            }
+            .card-slider-img{
+            height: 250px;
+            width: 100%;
+            }
             
+           .h11{
+                color: rgba(240, 205, 48, 0.938);
+                font-size: 20px;
+                width: 350px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+            .paragraph{
+                color: rgba(250, 246, 246, 0.856);
+                font-size: 18px;
+                width: 650px;
+                padding-left: 60px;
+            }
         }
-      
-      }
