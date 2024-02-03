@@ -13,6 +13,7 @@ import Infrastracture from './view/About us/Infrastracture';
 import Hydroponic from './view/About us/Hydroponic';
 import Blogsvideo from './view/About us/Blogs&video';
 import Contactus from './view/Contact us/Contactus';
+import Sugercane from './view/Crops/Sugercane';
 
 const router = createBrowserRouter([
   
@@ -63,6 +64,10 @@ const router = createBrowserRouter([
   {
     path: '/contactus',
     element: <Contactus />
+  },
+  {
+    path: '/sugercane',
+    element: <Sugercane />
   }
 ]);
 
