@@ -9,7 +9,7 @@ function Card() {
                 <img class="card-img"src="https://media.gettyimages.com/id/157484373/photo/sugar-cane-from-below.jpg?s=612x612&w=0&k=20&c=dklesMkf5mWwM17DwoN36eEEFZ1AwzYfNtaZ3YoO7Uo=" alt=".."/>
                <div class="card-text">
                <h2 class="h2">SUGERCANE</h2>
-                <button>Read More</button>
+               <a href="sugercane"> <button>Read More</button></a>
                </div>
               </div>
            </div>

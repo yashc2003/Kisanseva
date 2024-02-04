@@ -1,0 +1,275 @@
+.bannerhed{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    border-radius:100px 0px 100px 0;
+    margin-bottom: 30px;
+  
+  }
+  .sugercaneimg{
+      transform: matrix3d();
+      width: 100%;
+      height: 350px;
+      border-radius: 100px 0 100px 0;
+  }
+  .text-containt{
+      position: absolute;
+      height: 350px;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.507);
+      border-radius: 100px 0 100px 0;
+      top: 1px;
+  }
+  .heading{
+      padding-left: 80px;
+      padding-top: 100px;
+      color: rgba(250, 253, 255, 0.986);
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 55px;
+  }
+  .sub-heading{
+      padding-left: 500px;
+      font-size: 30px;
+      color: rgb(250, 166, 57);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .mainbox{
+      display:grid;
+      grid-template-columns: auto auto auto ;
+      justify-content: center;
+      border-radius: 60px 0px 60px 0px;
+      border-style: solid;
+      border-color: rgba(70, 78, 75, 0.274);
+      background-color: rgba(230, 219, 203, 0.171);
+      width: 1000px;
+      height: 450px;
+      margin-left: 170px;
+  }
+  .left-card{
+      position: relative;
+      height: 430px;
+      width: 260px;
+      margin-right: 30px;
+      margin-top: 50px;
+  }
+  .middle-card{
+      position: relative;
+      height: 430px;
+      width: 260px;
+      background-color: rgba(113, 202, 91, 0.253);
+  }
+  .productimg{
+      height:300px ;
+      width:300px ;
+      margin-top: 30px;
+  }
+  .packege{
+      margin-top: 130px;
+      color: rgb(8, 128, 34);
+      
+  }
+  .right-card{
+      position: relative;
+      height: 430px;
+      width: 260px;
+      margin-left: 40px;
+      margin-top: 50px;
+  }
+  
+  
+  .mainbox1{
+      display:grid;
+      grid-template-columns: auto auto auto ;
+      justify-content: center;
+      margin-top: 50px;
+      border-style: solid;
+      border-color: rgba(205, 224, 217, 0.274);
+      width: 1150px;
+      height: 590px;
+      padding-top: 20px;
+      margin-left: 100px;
+  }
+  .left-card1{
+      position: relative;
+      height: 510px;
+      width: 340px;
+      margin-right: 40px;
+      
+  
+  }
+  .middle-card1{
+      position: relative;
+      height: 520px;
+      width: 380px;
+      background-color: rgba(137, 204, 187, 0.219);
+  }
+  .productimg1{
+      height:520px ;
+      width:360px ;
+    
+  }
+  .productname{
+      width: 300px;
+      height: 100px;
+      margin-top: 50px;
+      background-color: rgb(20, 180, 41);
+      padding-left: 70px;
+  }
+  .right-card1{
+      position: relative;
+      height: 520px;
+      width: 300px;
+      margin-left: 20px;
+  background-color: rgba(124, 182, 163, 0.144);
+  }
+  .productimg1-1{
+      height:300px ;
+      width:300px ;
+      margin-top: 60px;
+  }
+
+  @media screen and (max-width: 991px) {
+    
+    .bannerhed{
+        position: relative;
+    width: 100%;
+    height: 200px;
+    border-radius:30px 0px 30px 0;
+    margin-bottom: 20px;
+  
+  }
+  .sugercaneimg{
+    
+      width: 100%;
+      height: 200px;
+      border-radius: 30px 0 30px 0;
+  }
+  .text-containt{
+      position: absolute;
+      height: 200px;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.507);
+      border-radius: 30px 0 30px 0;
+      top: 1px;
+  }
+  .heading{
+      padding-left: 20px;
+      padding-top: 60px;
+      color: rgba(250, 253, 255, 0.986);
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 25px;
+  }
+  .sub-heading{
+      padding-left: 100px;
+      font-size: 17px;
+      color: rgb(250, 166, 57);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+      .mainbox{
+          display:grid;
+          grid-template-columns:auto;
+          border-radius: 30px 0px 30px 0px;
+          border-style: solid;
+          border-color: rgba(70, 78, 75, 0.274);
+          background-color: rgba(209, 177, 128, 0.171);
+          width: 100%;
+          height: 1100px;
+          margin-left: 1px;
+          
+      }
+      .left-card{
+        height: 300px;
+        width: 260px;
+        margin-right: 30px;
+        margin-top: 50px;
+    }
+    .middle-card{
+        
+        height: 350px;
+        width: 260px;
+        background-color: rgba(113, 202, 91, 0.253);
+    }
+    .productimg{
+        height:300px ;
+        width:300px ;
+        margin-top: 30px;
+    }
+    .packege{
+        margin-top: 70px;
+        margin-left: 10px;
+        color: rgb(29, 107, 10)
+        
+    }
+    .right-card{
+        
+        height: 430px;
+        width: 260px;
+        margin-top: 50px;
+    }
+      .mainbox1{
+          display:grid;
+          grid-template-columns: auto ;
+          justify-content:center;
+          margin-top: 50px;
+          border-style: solid;
+          border-color: rgba(205, 224, 217, 0.274);
+          width: 100%;
+          height: 1400px;
+          margin-left: 1px;
+          margin-bottom: 90px;
+          
+      }
+      .left-card1{
+        position: relative;
+        height: 350px;
+        width: 300px;
+        margin-left: 10px;
+    
+
+     }
+       .middle-card1{
+        position: relative;
+        padding-left: 10px;
+        height: 500px;
+         width: 360px;
+        background-color: rgba(137, 204, 187, 0.219);
+     }
+      .productimg1{
+       height:350px ;
+       width:300px ;
+       margin-left: 10px;
+      }
+    .productname{
+       width: 300px;
+      height: 90px;
+      background-color: rgb(20, 180, 41);
+    
+    }
+   .right-card1{
+    position: relative;
+    height: 350px;
+    width: 300px;
+    margin-left: 20px;
+   background-color: rgba(124, 182, 163, 0.144);
+  }
+.productimg1-1{
+    height:300px ;
+    width:300px ;
+    margin-top: 20px;
+}
+button{
+    background-color: rgb(243, 154, 39) ;
+    color: rgb(247, 248, 248);
+    padding: 5px;
+    font-size: 8px;
+    border-radius: 10px 0px 10px 0px;
+    border-color:rgb(250, 154, 29);
+    margin-left: 10px;
+    width: 90px;
+    height: 40px;
+
+}
+
+}
+  
