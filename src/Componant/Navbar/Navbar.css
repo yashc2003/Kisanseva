@@ -12,3 +12,7 @@ nav{
   font-size: 19px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.dropdown-item:hover{
+  background-color: rgba(100, 223, 172, 0.452);
+}
