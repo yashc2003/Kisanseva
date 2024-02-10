@@ -14,6 +14,7 @@ import Hydroponic from './view/About us/Hydroponic';
 import Blogsvideo from './view/About us/Blogs&video';
 import Contactus from './view/Contact us/Contactus';
 import Sugercane from './view/Crops/Sugercane';
+import Grapes from './view/Crops/Grapes';
 
 const router = createBrowserRouter([
   
@@ -68,6 +69,10 @@ const router = createBrowserRouter([
   {
     path: '/sugercane',
     element: <Sugercane />
+  },
+  {
+    path: '/grapes',
+    element: <Grapes />
   }
 ]);
 
