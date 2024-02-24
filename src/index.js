@@ -15,7 +15,8 @@ import Blogsvideo from './view/About us/Blogs&video';
 import Contactus from './view/Contact us/Contactus';
 import Sugercane from './view/Crops/Sugercane';
 import Grapes from './view/Crops/Grapes';
-
+import Coffee from'./view/Crops/Coffee';
+import Cotton from'./view/Crops/Cotton';
 const router = createBrowserRouter([
   
   {
@@ -73,6 +74,14 @@ const router = createBrowserRouter([
   {
     path: '/grapes',
     element: <Grapes />
+  },
+  {
+    path: '/coffee',
+    element: <Coffee />
+  },
+  {
+    path: '/cotton',
+    element: <Cotton/>
   }
 ]);
 

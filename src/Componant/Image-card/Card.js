@@ -27,7 +27,7 @@ function Card() {
               <img class="card-img"src="https://media.gettyimages.com/id/1178874080/photo/coffee-berries-close-up-arabica-coffee-berries-with-agriculturist-hands.jpg?s=612x612&w=0&k=20&c=F0cgjYIbVUqJGXAyH2j0V1P8QNo7jFOjIIC05S8zHwI=" alt=".."/>
              <div class="card-text">
              <h2 class="h2">COFFEE</h2>
-              <button>Read More</button>
+             <a href="coffee"><button>Read More</button></a>
              </div>
             </div>
          </div>
@@ -36,7 +36,7 @@ function Card() {
               <img class="card-img"src="https://media.gettyimages.com/id/165051017/photo/cotton-boll.jpg?s=612x612&w=0&k=20&c=-sAv0qGB2Vs3I6FkyU7MNZ6CaCbBSOqhH1_bCXdkHYI=" alt=".."/>
              <div class="card-text">
              <h2 class="h2">COTTON</h2>
-              <button>Read More</button>
+             <a href="cotton"><button>Read More</button></a>
              </div>
             </div>
          </div>

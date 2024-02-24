@@ -1,7 +1,7 @@
 import React from "react"
 import "./../Crops/Grapes.css"
 import Navbar from "../../Componant/Navbar/Navbar";
-import Product2 from "../../Componant/Crops Product/Product2";
+import Product4 from "../../Componant/Crops Product/Product4";
 import Footer from "../../Componant/Footer/Footer";
 import Banner2 from "../../Componant/Banner/Banner2";
 
@@ -15,9 +15,9 @@ const ProductCard = (props) => {
     <div>
    <Navbar/>
    <div class="bannerhed">
-    <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/14266/12-EZ525469.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/17762/1-HX787212.jpg" alt=".."/>
     <div class="text-containt">
-        <h1 class="heading">Grapes</h1>
+        <h1 class="heading">COTTON</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
     </div>
 
@@ -28,7 +28,8 @@ const ProductCard = (props) => {
         <h2 className="text-success ">{productName}</h2>
         <h3>PRODUCT</h3>
         <hr/>
-        <p>Specifically designed for higher yield of Grapes considering its micronutrients requirement</p>
+        <p>Majorsol cotton supplies needed phosphorus and potash in balanced proportion along with secondary & micronutrients. 
+            Enhances quality of lint and increases oil percentage in seed. Its application increases disease and pest resistance.</p>
         
         <h4 class="text-success mt-5">{packSize}</h4>
        
@@ -48,7 +49,7 @@ const ProductCard = (props) => {
       </div>
     </div>
 
-   <Product2/>
+   <Product4/>
     <Banner2/>
     <Footer/>
     </div>
@@ -61,16 +62,18 @@ const App = () => {
     <div>
       {/* Render product cards using ProductCard component */}
       <ProductCard
-        imgSrc="https://ariesagro.com/wp-content/uploads/2022/11/Canemin-product-1-1.png"
-        productName="Grapemin"
+        imgSrc="https://ariesagro.com/wp-content/uploads/2022/11/Majorsol_Cotton-1.png"
+        productName="Majorsol Cotton"
         description={[
-          'Iron as Fe = 3.5%',
-          'Manganese as Mn = 6%',
-          'Zinc as Zn = 4%',
-          'Copper as Cu = 1%',
-          'Boron as B = 1.5%',
-         ' Potassium as K2O = 5%',
-          'Sulphur as S = 12%'
+          'Manganese as Mn :1.0%',
+          'Magnesium as Mg : 2.0%',
+          'Zinc as Zn : 2.5%',
+           'Sulphur as S : 8.0%',
+          'Potassium as K2O :18.0%',
+          'Phosphorus as P2O5 :12.0%',
+          'Calcium as Ca : 2.0%',
+          'Copper as Cu : 1.0%',
+          'Boron as B :0.2%'
         ]}
         packSize="Pack Size:- 5 kg/ 10 kg"
         moreButtonText="REDE MORE"
