@@ -7,7 +7,7 @@ function Card() {
            <div>
               <div class="card">
                 <img class="card-img"src="https://media.gettyimages.com/id/157484373/photo/sugar-cane-from-below.jpg?s=612x612&w=0&k=20&c=dklesMkf5mWwM17DwoN36eEEFZ1AwzYfNtaZ3YoO7Uo=" alt=".."/>
-               <div class="card-text">
+               <div class="card-text1">
                <h2 class="h2">SUGERCANE</h2>
                <a href="sugercane"> <button>Read More</button></a>
                </div>
@@ -18,7 +18,7 @@ function Card() {
               <img class="card-img"src="https://media.gettyimages.com/id/521177840/photo/grapes-growing-in-napa-valley.jpg?s=612x612&w=0&k=20&c=_Bg7Vi_BPq587rfjWVibd12QdQ5FB8YNI0MlTYvXgsE=" alt=".."/>
              <div class="card-text">
              <h2 class="h2">   GRAPE</h2>
-              <button>Read More</button>
+              <a href="grapes"><button>Read More</button></a>
              </div>
             </div>
          </div>
@@ -27,7 +27,7 @@ function Card() {
               <img class="card-img"src="https://media.gettyimages.com/id/1178874080/photo/coffee-berries-close-up-arabica-coffee-berries-with-agriculturist-hands.jpg?s=612x612&w=0&k=20&c=F0cgjYIbVUqJGXAyH2j0V1P8QNo7jFOjIIC05S8zHwI=" alt=".."/>
              <div class="card-text">
              <h2 class="h2">COFFEE</h2>
-              <button>Read More</button>
+             <a href="coffee"><button>Read More</button></a>
              </div>
             </div>
          </div>
@@ -36,7 +36,7 @@ function Card() {
               <img class="card-img"src="https://media.gettyimages.com/id/165051017/photo/cotton-boll.jpg?s=612x612&w=0&k=20&c=-sAv0qGB2Vs3I6FkyU7MNZ6CaCbBSOqhH1_bCXdkHYI=" alt=".."/>
              <div class="card-text">
              <h2 class="h2">COTTON</h2>
-              <button>Read More</button>
+             <a href="cotton"><button>Read More</button></a>
              </div>
             </div>
          </div>
@@ -70,7 +70,7 @@ function Card() {
        <div>
           <div class="card">
             <img class="card-img"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12X8pzvyu-nGwo-Ig8RgkV1YruHcq3mPMow&usqp=CAU" alt=".."/>
-           <div class="card-text">
+           <div class="card-text1">
            <h2 class="h2">GROUNDNUT</h2>
             <button>Read More</button>
            </div>

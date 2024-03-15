@@ -52,7 +52,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitro-1.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
-            <h2 class="text-success ">Nitrogen Deficiency</h2>
+           <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
            <h3 >Symptoms</h3>
            <ul>
             <li>Leaf blades turn light green to yellow & margins of older leaves become necrotic.</li>
@@ -74,7 +74,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/MacroFert-1.svg" alt=".."/>
             <div class="productname">
-                <h2>Microfert</h2>
+                <h2>MicroFert</h2>
                 <button>REDE MORE</button>
             </div>
 
@@ -90,7 +90,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-1.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
-            <h2 class="text-success ">Phosphorous Deficiency</h2>
+           <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
             <li>Older leaves turn into greenish blue or reddish purple discolouration.</li>
@@ -112,7 +112,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/fertimaxpk-1.png" alt=".."/>
             <div class="productname">
-                <h2>Microfert</h2>
+                <h2>FertiMax PK</h2>
                 <button>REDE MORE</button>
             </div>
 
@@ -127,7 +127,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pota-1.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
-            <h2 class="text-success ">Potassium Deficiency</h2>
+           <h2 class="text-success mt-4">Potassium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
             <li>Reddish brown strips or spots on the mid rib.</li>
@@ -149,7 +149,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Fertisol-super-1.png" alt=".."/>
             <div class="productname">
-                <h2>Microfert</h2>
+                <h2>Fertisol Super</h2>
                 <button>REDE MORE</button>
             </div>
 
@@ -163,7 +163,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/cal.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
-            <h2 class="text-success ">Calcium Deficiency</h2>
+           <h2 class="text-success mt-4">Calcium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
             <li>The leaves become necrotic at the leaf tip and along leaf margins.</li>
@@ -185,7 +185,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Aquacal-2-1-1.png" alt=".."/>
             <div class="productname">
-                <h2>Microfert</h2>
+                <h2>Aquacal</h2>
                 <button>REDE MORE</button>
             </div>
 
@@ -200,7 +200,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
-            <h2 class="text-success ">Sulphur Deficiency</h2>
+           <h2 class="text-success mt-4">Sulphur Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
             <li>The leaves become chlorotic and yellow in colour.</li>
@@ -222,7 +222,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Prima-sulf-1-1.png" alt=".."/>
             <div class="productname">
-                <h2>Microfert</h2>
+                <h2>PrimaSulf</h2>
                 <button>REDE MORE</button>
             </div>
 
@@ -237,7 +237,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
-            <h2 class="text-success ">Magnesium Deficiency</h2>
+           <h2 class="text-success mt-4">Magnesium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
             <li>Red necrosis lesions resulting in rusty appearance,internal browning of rind.</li>
@@ -259,7 +259,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/zincmag-1-300x300.png" alt=".."/>
             <div class="productname">
-                <h2>Microfert</h2>
+                <h2>ZincMag</h2>
                 <button>REDE MORE</button>
             </div>
 
