@@ -68,12 +68,12 @@ button{
     }
     .card{
     position: relative;
-    height: 230px;
+    height: 220px;
     width: 160px;
 
     }
     .card-img{
-    height: 230px;
+    height: 220px;
     width: 160px;
     }
     .card-text{
@@ -87,29 +87,26 @@ button{
     }
     .card-text1{
         position: absolute;
-        top: 10px;
-        padding: 10px;
+        top: 30px;
+        
         margin-top: 80px;
         background: rgba(0, 0, 0, 0.514);
     
     }
-    
-
-
     .h2{
         color: whitesmoke;
-        text-size: 5px ;
+        font-size: 18px ;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     }
     button{
         background-color: rgb(243, 154, 39) ;
-        color: rgb(247, 248, 248);
+        color: rgb(232, 238, 238);
         padding: 5px;
-        font-size: 8px;
+        font-size: 20px;
         border-radius: 20px 0px 20px 0px;
         border-color:rgb(250, 154, 29);
-        margin-left: 10px;
-        width: 60px;
+         height: 50px;
+        width: 130px;
     }
     
 }
