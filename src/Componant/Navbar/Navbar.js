@@ -1,5 +1,6 @@
 import React from "react";
 import "./../../Componant/Navbar/Navbar.css"
+import Login from "./../../Componant/assets/login.png";
 import Navbarimag from "./../../Componant/assets/kpng1.png";
 
 
@@ -49,14 +50,17 @@ function Navbar() {
           <a class="nav-link text-black ms-2" aria-disabled="true" href="/contactus">Contact us</a>
         </li>
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+      <select class="form-select" aria-label="Default select example">
+       <option selected>Select Language</option>
+        <option value="1">English</option>
+        <option value="2">Hindi</option>
+        <option value="3">Marathi</option>
+      </select>
+     <a href="/login"><img class="login-img" src={Login}/></a>
     </div>
   </div>
 </nav>
     )
   }
   
-  export default Navbar
+  export default Navbar;
