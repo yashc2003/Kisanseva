@@ -45,7 +45,7 @@ function Card() {
               <img class="card-img"src="https://media.gettyimages.com/id/479629438/photo/wheat.jpg?s=612x612&w=0&k=20&c=fJpTBCLVasl_dbMgkofYeZuxBbhpxZ6uM9IxgMzEiAo=" alt=".."/>
              <div class="card-text">
              <h2 class="h2">WHEAT</h2>
-              <button>Read More</button>
+             <a href="wheat"><button>Read More</button></a>
              </div>
             </div>
          </div>
@@ -54,7 +54,7 @@ function Card() {
             <img class="card-img"src="https://media.gettyimages.com/id/1348971759/photo/close-up-of-wheat-growing-on-field-tirunelveli-tamil-nadu-india.jpg?s=612x612&w=0&k=20&c=iV4vpYlSMTo47ALfuGDcMQ00l01YSNtYRgZ8b-5zKYM=" alt=".."/>
            <div class="card-text">
            <h2 class="h2">PADDY</h2>
-            <button>Read More</button>
+           <a href="paddy"><button>Read More</button></a>
            </div>
           </div>
        </div>
@@ -63,7 +63,7 @@ function Card() {
             <img class="card-img"src="https://media.gettyimages.com/id/1267272011/photo/fresh-corn-cob-on-dark-background.jpg?s=612x612&w=0&k=20&c=LSaKjPiuc3SDm18GU09x1rzwJ0VEFTE9FRUTT-X86rY=" alt=".."/>
            <div class="card-text">
            <h2 class="h2">MAIZE</h2>
-            <button>Read More</button>
+           <a href="maize"><button>Read More</button></a>
            </div>
           </div>
        </div>
@@ -72,7 +72,7 @@ function Card() {
             <img class="card-img"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12X8pzvyu-nGwo-Ig8RgkV1YruHcq3mPMow&usqp=CAU" alt=".."/>
            <div class="card-text1">
            <h2 class="h2">GROUNDNUT</h2>
-            <button>Read More</button>
+           <a href="groundnut"><button>Read More</button></a>
            </div>
           </div>
        </div>
