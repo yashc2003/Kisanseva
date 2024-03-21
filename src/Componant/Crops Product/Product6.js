@@ -7,7 +7,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nito.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/Majorsol_paddy-1.png" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
@@ -33,7 +33,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/MacroFert-1.svg" alt=".."/>
             <div class="productname">
                 <h2>Microfert</h2>
-                <button>REDE MORE</button>
+                <button>READ MORE</button>
             </div>
 
         </div>
