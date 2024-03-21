@@ -80,7 +80,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/cal.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/boron-6.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Calcium Deficiency</h2>
@@ -117,7 +117,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sul-4.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Sulphur Deficiency</h2>
