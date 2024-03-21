@@ -1,10 +1,10 @@
 nav{
-  background-color: rgba(100, 223, 172, 0.452);
+  background-color: rgba(40, 236, 144, 0.664);
 
 }
 .navbar-img{
-  width: 150px;
-  height: 100px;
+  width: 100px;
+  height: 90px;
   margin-left: 10px;
   margin-right: 20px;
 }
@@ -13,6 +13,14 @@ nav{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.dropdown-item:hover{
-  background-color: rgba(100, 223, 172, 0.452);
+.form-select{
+  width: 200px;
+  height: 45px;
+}
+
+.login-img{
+  margin-left: 40px;
+  margin-right: 20px;
+  height: 55px;
+  width: 55px;
 }

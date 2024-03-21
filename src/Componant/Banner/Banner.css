@@ -6,6 +6,7 @@
     .card-slider-img{
     height: 500px;
     width: 100%;
+    object-fit: fill;
     }
     
    .h11{
@@ -31,6 +32,7 @@
             .card-slider-img{
             height: 250px;
             width: 100%;
+            object-fit: cover;
             }
             
            .h11{
