@@ -7,26 +7,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/Group-1000005106.png" alt=".seeds image."/>
         </div>
         <div class="middle-card1 ps-4">
-           <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
+           <h2 class="text-success mt-4">Majorsol Wheat</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Older leaves turn into greenish blue or reddish purple discolouration.</li>
+            <li>Older leaves dying prematurely when storage is severe.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Reduction in length of sugarcanre stalk, poor tillering,restricted root development.</li>
+            <li>Effects on older and younger leaves.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Fertimax 12:61:00 5gm/lit, Fertimax 00:52:34( 5-10gm/lit)</p>
+            <p>Macrofert 20:20:20 5gm/lit</p>
             <li>Soil/Drip</li>
             <p>Plantex 12:61:00 5kg/acre</p>
             <li>Benefit</li>
-            <p>Root development, winter hardness</p>
+            <p>Helps in vegetative growth, formation of amino acids</p>
            </ul>
         </div>
         <div class="right-card1">
