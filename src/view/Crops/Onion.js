@@ -1,7 +1,7 @@
 import React from "react"
 import "./../Crops/Grapes.css"
 import Navbar from "../../Componant/Navbar/Navbar";
-import Product6 from "../../Componant/Crops Product/Product6";
+import Product3 from "../../Componant/Crops Product/Product3";
 import Footer from "../../Componant/Footer/Footer";
 import Banner2 from "../../Componant/Banner/Banner2";
 
@@ -17,7 +17,7 @@ const ProductCard = (props) => {
    <div class="bannerhed">
     <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/20598/1-PK1060966.jpg" alt=".."/>
     <div class="text-containt">
-        <h1 class="heading">PEDDY</h1>
+        <h1 class="heading">COFFEE</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
     </div>
 
@@ -28,7 +28,9 @@ const ProductCard = (props) => {
         <h2 className="text-success ">{productName}</h2>
         <h3>PRODUCT</h3>
         <hr/>
-        <p>Majorsol Paddy is a high performance soil application fertilizer. Helps to increase disease resistance power in crop</p>
+        <p>Coffeemin is a blend of essential nutrients to supply balanced levels of minerals to coffee plantations.
+             Coffeemin increases yield by supplying nutrients to overcome deficiencies at critical growth stages. 
+             For the best coffee produce and meeting the desired nutrition needs</p>
         
         <h4 class="text-success mt-5">{packSize}</h4>
        
@@ -48,7 +50,7 @@ const ProductCard = (props) => {
       </div>
     </div>
 
-   <Product6/>
+   <Product3/>
     <Banner2/>
     <Footer/>
     </div>
@@ -61,15 +63,17 @@ const App = () => {
     <div>
       {/* Render product cards using ProductCard component */}
       <ProductCard
-        imgSrc="https://ariesagro.com/wp-content/uploads/2022/12/Majorsol_paddy-1.png"
-        productName="Majorsol Paddy"
+        imgSrc="https://ariesagro.com/wp-content/uploads/2022/11/Group-1000005112.png"
+        productName="Coffeemin"
         description={[
-          'Zinc as Zn :10.0%',
-          'Sulphur as S : 8.0%',
-          'Potassium as K2O :13.0%',
-          'Phosphorus as P2O5 : 20.0%',
-          'Boron as B : 0.5%',
-          'Magnesium Mg : 2.0%'
+          'Potassium as K2O : 15%',
+          'Zinc as Zn : 4%',
+         ' Manganese as Mn : 6%',
+          'Boron as B :1.5%',
+          'Magnesium as Mg :2.5%',
+          'Sulphur as S : 12%',
+          'Copper as Cu :0.6%',
+         ' Molybdenum as Mo :0.1%'
         ]}
         packSize="Pack Size:- 5 kg/ 10 kg"
         moreButtonText="REDE MORE"

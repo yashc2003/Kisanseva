@@ -23,6 +23,21 @@ import Wheat from './view/Crops/Wheat';
 import Paddy from'./view/Crops/Paddy';
 import Maize from'./view/Crops/Maize';
 import Groundnut from'./view/Crops/Groundnut';
+import Orange from './view/Crops/Orange';
+import Citrus from './view/Crops/Citrus';
+import Mango from'./view/Crops/Mango';
+import Pomegranate from'./view/Crops/Pomegranate';
+import Banana from './view/Crops/Banana';
+import Papaya from'./view/Crops/Papaya';
+import Watermelon from'./view/Crops/Watermelon';
+import Cocoa from'./view/Crops/Cocoa';
+import Onion from './view/Crops/Onion';
+import Tomato from './view/Crops/Tomato';
+import Potato from'./view/Crops/Potato';
+import Cauliflower from'./view/Crops/Cauliflower';
+import Chilli from './view/Crops/Chilli';
+import Turmeric from'./view/Crops/Turmeric';
+import Ginger from'./view/Crops/Ginger';
 const router = createBrowserRouter([
   
   {
@@ -112,6 +127,66 @@ const router = createBrowserRouter([
   {
     path: '/groundnut',
     element: <Groundnut/>
+  },
+  {
+    path: '/orange',
+    element: <Orange />
+  },
+  {
+    path: '/citrus',
+    element: <Citrus />
+  },
+  {
+    path: '/mango',
+    element: <Mango />
+  },
+  {
+    path: '/pomegranate',
+    element: <Pomegranate />
+  },
+  {
+    path: '/banana',
+    element: <Banana/>
+  },
+  {
+    path: '/papaya',
+    element: <Papaya />
+  },
+  {
+    path: '/watermelon',
+    element: <Watermelon/>
+  },
+  {
+    path: '/cocoa',
+    element: <Cocoa/>
+  },
+  {
+    path: '/onion',
+    element: <Onion/>
+  },
+  {
+    path: '/tomato',
+    element: <Tomato/>
+  },
+  {
+    path: '/potato',
+    element: <Potato />
+  },
+  {
+    path: '/cauliflower',
+    element: <Cauliflower/>
+  },
+  {
+    path: '/chilli',
+    element: <Chilli />
+  },
+  {
+    path: '/turmeric',
+    element: <Turmeric />
+  },
+  {
+    path: '/ginger',
+    element: <Ginger />
   }
 ]);
 

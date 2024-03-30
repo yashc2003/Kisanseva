@@ -7,17 +7,17 @@ import "./../../Componant/Crops Product/Product1.css"
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nitrogen-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nito.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Yellowing of older leaves.</li>
+            <li>Leaf become uniformly light green or yellow colour.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Growth was stunted.</li>
+            <li>Overall reduction in growth.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -33,7 +33,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/MacroFert-1.svg" alt=".."/>
             <div class="productname">
                 <h2>Microfert</h2>
-                <button>READ MORE</button>
+                <button>REDE MORE</button>
             </div>
 
         </div>
@@ -45,26 +45,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/phosphorus-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-10.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Reddish purplish colour of older leaves.</li>
+            <li>The appearance of red dots on basal portion.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Premature leaf fall,reduce tillering in rice.</li>
+            <li>The appearance of red dots on basal portion.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Fertimax 12:61:00 5gm/lit, Fertimax 00:52:34( 5-10gm/lit)</p>
+            <p>Fertimax 12:61:00 5gm/lit</p>
             <li>Soil/Drip</li>
             <p>Plantex 12:61:00 5kg/acre</p>
             <li>Benefit</li>
-            <p>Root development, winter hardness</p>
+            <p>Maintain longterm productivity</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -82,32 +82,32 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/potassium-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pot-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-2">Potassium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Older leaves turn into thick green colour,burning of leaf margins.</li>
+            <li>Colour fading from leaf margins,leaf margins becomes necrotic and curling occurs.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Necrotic spots appear on the tip of older leaves.</li>
+            <li>Plant growth,root devslopment and fruit development are usually reduced.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Fertimax 00:00:50 5gm/lit, Fertimax13:00:45( 5-10gm/lit), Fertisol 3-5gm/lit</p>
+            <p>Fertimax13:00:45( 5-10gm/lit)</p>
             <li>Soil/Drip</li>
-            <p>--</p>
+            <p>Plantex 13:00:45 3kg/acre(drip)</p>
             <li>Benefit</li>
-            <p>Resistance to pests and diseases, opening and closing of stomata</p>
+            <p>Ensures good,strong fruit set and increase sugar content in grape</p>
            </ul>
         </div>
         <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Fertisol-super-1.png" alt=".."/>
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/fertimaxpk-1.png" alt=".."/>
             <div class="productname">
-                <h2>Fertisol</h2>
+                <h2>Fertimax</h2>
                 <button>REDE MORE</button>
             </div>
 
@@ -118,25 +118,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/calcuim.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/cal-7.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Calcium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Tips of youngest leaves become white,rolled and curled.</li>
+            <li>Blossom end rot of grapes.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Stunting and death of growing point during extreme deficiency.</li>
+            <li>Skin becomes loose and bursts open.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Aquacal-3-4ml/lit, fertimax CN 5-10gm/lit, combical-3-5gm/lit, horticab 2-3ml/lit, crack gourd 2-3ml/lit</p>
-            <li>Soil/Drip : ---</li>
+            <p>Aquacal-3-4ml/lit, combical-3-5gm/lit, horticab 2-3ml/lit</p>
+            <li>Soil/Drip</li>
+            <p>combical 3 kg/acre or Plantex CN 3kg/acre</p>
             <li>Benefit</li>
-            <p>Cell formation,cell elongation,cell division</p>
+            <p>Boosts new leaf and bud growth,ensures strong skin and minimise fruit disorder and diseases</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -154,26 +155,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sulphur.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-10.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Sulphur Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>New leaves become pale yellow in colour.</li>
+            <li>Redding of young leaves and red dots near the edges of younger leaves.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Growth is stunted.</li>
+            <li>Reduced growth,small and loose cluster due to reduced fruit set.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
             <p>Primasulf 3-4ml/lit, fertisol 5gm/lit</p>
             <li>Soil/Drip</li>
-            <p>--</p>
+            <p>ferromag 3kg/1acre or fertisol 3kg/1acre</p>
             <li>Benefit</li>
-            <p>Improves special character in crop</p>
+            <p>Maximise photosynthetic activity,minimises diseases</p>
            </ul>
         </div>
         <div class="right-card1">

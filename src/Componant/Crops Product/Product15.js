@@ -7,7 +7,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nitrogen-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitro-12.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
@@ -33,7 +33,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/MacroFert-1.svg" alt=".."/>
             <div class="productname">
                 <h2>Microfert</h2>
-                <button>READ MORE</button>
+                <button>REDE MORE</button>
             </div>
 
         </div>
@@ -45,7 +45,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/phosphorus-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
@@ -55,16 +55,16 @@ import "./../../Componant/Crops Product/Product1.css"
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Premature leaf fall,reduce tillering in rice.</li>
+            <li>Premature leaf fall, proper root development is not there.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Fertimax 12:61:00 5gm/lit, Fertimax 00:52:34( 5-10gm/lit)</p>
+            <p>Fertimax 12:61:00 5gm/lit,Fertimax 00:52:34( 5-10gm/lit)</p>
             <li>Soil/Drip</li>
             <p>Plantex 12:61:00 5kg/acre</p>
             <li>Benefit</li>
-            <p>Root development, winter hardness</p>
+            <p>Root development, winter hardness.</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -82,7 +82,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/potassium-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pot.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-2">Potassium Deficiency</h2>
@@ -101,7 +101,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <li>Soil/Drip</li>
             <p>--</p>
             <li>Benefit</li>
-            <p>Resistance to pests and diseases, opening and closing of stomata</p>
+            <p>Resistance to pests and diseases,opening and closing of stomata</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -118,7 +118,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/calcuim.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Calcium Deficiency</h2>
@@ -133,8 +133,9 @@ import "./../../Componant/Crops Product/Product1.css"
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Aquacal-3-4ml/lit, fertimax CN 5-10gm/lit, combical-3-5gm/lit, horticab 2-3ml/lit, crack gourd 2-3ml/lit</p>
-            <li>Soil/Drip : ---</li>
+            <p>Aquacal-3-4ml/lit, Calcium nitrate 5-10gm/lit, combical-3-5gm/lit, horticab 2-3ml/lit, crack gourd 2-3ml/lit</p>
+            <li>Soil/Drip</li>
+            <p>--</p>
             <li>Benefit</li>
             <p>Cell formation,cell elongation,cell division</p>
            </ul>
@@ -154,17 +155,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sulphur.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-7.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Sulphur Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>New leaves become pale yellow in colour.</li>
+            <li>Yellowing of younger leaves.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Growth is stunted.</li>
+            <li>Flavour is reduced.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -191,26 +192,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag-11.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag-6.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success ">Magnesium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Bright yellow wedge shaped extends inward between the veins on older leaves.</li>
+            <li>Interveinal chlorosis.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>When severe,necrosis extends inwards from the leaf margin and fruit cluster and stem necrosis.</li>
+            <li>Plants are pale coloured.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Magmix 4-5gm/lit, zinc mag 3-5ml/lit</p>
+            <p>Magmix 4-5gm/lit, zinc mag 3-5ml/lit, Fertisol 3-5gm/lit</p>
             <li>Soil/Drip</li>
-            <p>--</p>
+            <p>Ferromag 5kg/acre</p>
             <li>Benefit</li>
-            <p>Maximise photosynthetic activity,increase growth and berry development</p>
+            <p>Helps in photosynthesis,starch translocation</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -224,26 +225,26 @@ import "./../../Componant/Crops Product/Product1.css"
          
        <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/boron-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/boron-9.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Boron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Shoot tip death and short internodes resulting in shoots with zigzag appearance.</li>
+            <li>White and rolled leaf tips of young leaves.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Fruit set is often poor and breaking of berry.</li>
+            <li>Reduction in plant height,death of growing points.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
             <p>Boron 20 1gm/lit, Potabor super-2-3gm/lit</p>
             <li>Soil/Drip</li>
-            <p>Boron -20 1 kg/acre</p>
+            <p>--</p>
             <li>Benefit</li>
-            <p>Ensures good shoot growth and strong fruit set,improve berry shape and size</p>
+            <p>Translocation of sugars and help in pollination</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -258,26 +259,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-14.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-10.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Zinc Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Short internodes,resulting in shoot with a zigzag appearance.</li>
+            <li>Brown colour spots,uneven leaf lamina.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Small and poorly developed branches.</li>
+            <li>Growth is stunted,shortening of internodes.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Chelamin plus1.5gm/lit or chelamin gold 0.5gm/lit</p>
+            <p>Chelamin plus1.5gm/lit </p>
             <li>Soil/Drip</li>
             <p>Chelamin gold 0.5kg/acre</p>
             <li>Benefit</li>
-            <p>Increases sucrose content in grapes and formation of healthy berries.</p>
+            <p>Helps in activation of enzymes</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -293,17 +294,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/iron-13.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Iron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Young leaves show interveinal chlorosis.</li>
+            <li>Leaves become white in colour.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Leaves are lightly to be very pale with necrotic blotches.</li>
+            <li>Interveinal chlorosis.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -312,13 +313,116 @@ import "./../../Componant/Crops Product/Product1.css"
             <li>Soil/Drip</li>
             <p>Ferromag 5kg/acre, Ferromix-5kg/acre</p>
             <li>Benefit</li>
-            <p>Strengthening leaf development and vine productivity</p>
+            <p>Helps in electron transport chain and helps in photosynthesis</p>
            </ul>
         </div>
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/chelafer-500gm-2-300x300.png" alt=".."/>
             <div class="productname">
                 <h2>Chelafer</h2>
+                <button>REDE MORE</button>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/copper-4.jpg" alt=".."/>
+        </div>
+         <div class="middle-card1 ps-4">
+            <h2 class="text-success mt-4">Copper Deficiency</h2>
+           <h3>Symptoms</h3>
+           <ul>
+            <li>Pale greyish green interveinal chlorosis spreads from tip of leaf base.</li>
+           </ul>
+           <h3>Affect</h3>
+           <ul>
+            <li>Newly emerging leaves short,narrow and light green,plants shorter.</li>
+           </ul>
+           <h3>Solution</h3>
+           <ul>
+            <li>Product</li>
+            <p>Phosphocop 2-3ml/lit</p>
+            <li>Soil/Drip</li>
+            <p>--</p>
+            <li>Benefit</li>
+            <p>Serves to intensify flavour and colour in vegetables and colour in flowers</p>
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/12/Phosphocop-300x300.png" alt=".."/>
+            <div class="productname">
+                <h2>Phosphocop</h2>
+                <button>REDE MORE</button>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/man-6.jpg" alt=".."/>
+        </div>
+         <div class="middle-card1 ps-4">
+            <h2 class="text-success mt-3">Manganese Deficiency</h2>
+           <h3>Symptoms</h3>
+           <ul>
+            <li>Interveinal chlorosis of young leaves.</li>
+           </ul>
+           <h3>Affect</h3>
+           <ul>
+            <li>plant growth may be reduced and stunted.</li>
+           </ul>
+           <h3>Solution</h3>
+           <ul>
+            <li>Product</li>
+            <p>Mn-chel- 1-2 ml/lit of water or mobomin 1 gm/lit of water </p>
+            <li>Soil/Drip</li>
+            <p>--</p>
+            <li>Benefit</li>
+            <p>Helps in nitrogen metabolism and involves in photosynthetic activity</p>
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/mnchel-3-300x298.png" alt=".."/>
+            <div class="productname">
+                <h2>Mn-Chel</h2>
+                <button>REDE MORE</button>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/moly.jpg" alt=".."/>
+        </div>
+         <div class="middle-card1 ps-4">
+            <h2 class="text-success mt-4">Molybdenum Deficiency</h2>
+           <h3>Symptoms</h3>
+           <ul>
+            <li>Older leaves become abnormal in shape where as younger ones remain same.</li>
+           </ul>
+           <h3>Affect</h3>
+           <ul>
+            <li>Older leaves exhibit chlorosis with interveinal necrotic spots.</li>
+           </ul>
+           <h3>Solution</h3>
+           <ul>
+            <li>Product</li>
+            <p>Mobomin 1.5-2gm/lit</p>
+            <li>Soil/Drip</li>
+            <p>--</p>
+            <li>Benefit</li>
+            <p>Helps in nitrogen metabolism</p>
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/mobomin-1-300x300.png" alt=".."/>
+            <div class="productname">
+                <h2>Mobomin</h2>
                 <button>REDE MORE</button>
             </div>
 

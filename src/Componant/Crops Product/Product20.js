@@ -7,7 +7,7 @@ import "./../../Componant/Crops Product/Product1.css"
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nitrogen-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitrogene-1.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
@@ -17,7 +17,7 @@ import "./../../Componant/Crops Product/Product1.css"
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Growth was stunted.</li>
+            <li>Stunted growth with few vegetative fruiting branches.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -33,7 +33,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/MacroFert-1.svg" alt=".."/>
             <div class="productname">
                 <h2>Microfert</h2>
-                <button>READ MORE</button>
+                <button>REDE MORE</button>
             </div>
 
         </div>
@@ -45,17 +45,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/phosphorus-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phosphorus-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Reddish purplish colour of older leaves.</li>
+            <li>Purple-red leaves.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Premature leaf fall,reduce tillering in rice.</li>
+            <li>Root growth is affected.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -82,17 +82,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/potassium-new.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/potassium-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-2">Potassium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Older leaves turn into thick green colour,burning of leaf margins.</li>
+            <li>Dark green stunted plants,reddening symptom appear on leaves..</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Necrotic spots appear on the tip of older leaves.</li>
+            <li>Delay in blooming and fruiting.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -101,13 +101,13 @@ import "./../../Componant/Crops Product/Product1.css"
             <li>Soil/Drip</li>
             <p>--</p>
             <li>Benefit</li>
-            <p>Resistance to pests and diseases, opening and closing of stomata</p>
+            <p>Resistance to pests and diseases,opening and closing of stomata</p>
            </ul>
         </div>
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Fertisol-super-1.png" alt=".."/>
             <div class="productname">
-                <h2>Fertisol</h2>
+                <h2>fertisol</h2>
                 <button>REDE MORE</button>
             </div>
 
@@ -118,23 +118,24 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/calcuim.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/calcium-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Calcium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Tips of youngest leaves become white,rolled and curled.</li>
+            <li>Crinkle leaf and poor root growth.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Stunting and death of growing point during extreme deficiency.</li>
+            <li>Large plants and few fruiting forms.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Aquacal-3-4ml/lit, fertimax CN 5-10gm/lit, combical-3-5gm/lit, horticab 2-3ml/lit, crack gourd 2-3ml/lit</p>
-            <li>Soil/Drip : ---</li>
+            <p>Aquacal-3-4ml/lit, Calcium nitrate 5-10gm/lit, combical-3-5gm/lit, horticab 2-3ml/lit, crack gourd 2-3ml/lit</p>
+            <li>Soil/Drip</li>
+            <p>--</p>
             <li>Benefit</li>
             <p>Cell formation,cell elongation,cell division</p>
            </ul>
@@ -154,17 +155,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sulphur.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sulphur-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Sulphur Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>New leaves become pale yellow in colour.</li>
+            <li>Pale green to yellow colour of young leaves.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Growth is stunted.</li>
+            <li>The plants are small and spindly with short,slender stalks.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -191,26 +192,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag-11.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/magnesium-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success ">Magnesium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Bright yellow wedge shaped extends inward between the veins on older leaves.</li>
+            <li>Purple-red leaves with green veins,and affected leaves may age prematurely.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>When severe,necrosis extends inwards from the leaf margin and fruit cluster and stem necrosis.</li>
+            <li>Leaf cupping and interveinal chlorosis veins remain green,starts in young leaves.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Magmix 4-5gm/lit, zinc mag 3-5ml/lit</p>
+            <p>Magmix 4-5gm/lit, zinc mag 3-5ml/lit Fertisol 3-5gm/lit</p>
             <li>Soil/Drip</li>
-            <p>--</p>
+            <p>Ferromag 5kg/acre</p>
             <li>Benefit</li>
-            <p>Maximise photosynthetic activity,increase growth and berry development</p>
+            <p>Helps in photosynthesis,starch translocation</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -224,26 +225,26 @@ import "./../../Componant/Crops Product/Product1.css"
          
        <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/boron-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/borron.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Boron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Shoot tip death and short internodes resulting in shoots with zigzag appearance.</li>
+            <li>Black discolouration at the base of bolls,bolls dry and fall,terminal bud dies.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Fruit set is often poor and breaking of berry.</li>
+            <li>Excessive shedding of buds and young bolls.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
             <p>Boron 20 1gm/lit, Potabor super-2-3gm/lit</p>
             <li>Soil/Drip</li>
-            <p>Boron -20 1 kg/acre</p>
+            <p>--</p>
             <li>Benefit</li>
-            <p>Ensures good shoot growth and strong fruit set,improve berry shape and size</p>
+            <p>Translocation of sugars and help in pollination</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -258,26 +259,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-14.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Zinc Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Short internodes,resulting in shoot with a zigzag appearance.</li>
+            <li>Brown spots extends from leaf tips to base and later dry,plants show shorter appearance.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Small and poorly developed branches.</li>
+            <li>Tips of leaves elongated and parallel.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Chelamin plus1.5gm/lit or chelamin gold 0.5gm/lit</p>
+            <p>Chelamin plus1.5gm/lit</p>
             <li>Soil/Drip</li>
             <p>Chelamin gold 0.5kg/acre</p>
             <li>Benefit</li>
-            <p>Increases sucrose content in grapes and formation of healthy berries.</p>
+            <p>Helps in activation of enzymes</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -293,17 +294,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/iron-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Iron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Young leaves show interveinal chlorosis.</li>
+            <li>Leaf becomes white in colour.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Leaves are lightly to be very pale with necrotic blotches.</li>
+            <li>Fibre fitness is reduced.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -312,7 +313,7 @@ import "./../../Componant/Crops Product/Product1.css"
             <li>Soil/Drip</li>
             <p>Ferromag 5kg/acre, Ferromix-5kg/acre</p>
             <li>Benefit</li>
-            <p>Strengthening leaf development and vine productivity</p>
+            <p>Helps in electron transport chain and helps in photosynthesis</p>
            </ul>
         </div>
         <div class="right-card1">
