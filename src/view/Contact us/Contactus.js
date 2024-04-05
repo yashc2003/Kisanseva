@@ -7,7 +7,7 @@ import Footer from './../../Componant/Footer/Footer';
     return(
         <div>
             <Navbar/>
-            <h1>Contact us</h1>
+            <h1>Contact US</h1>
             <Footer/>
         </div>
     )
