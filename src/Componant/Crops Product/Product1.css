@@ -107,7 +107,7 @@
   .productimg1{
       height:520px ;
       width:360px ;
-    
+    object-fit: cover;
   }
   .productname{
       width: 300px;

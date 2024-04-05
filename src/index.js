@@ -13,10 +13,16 @@ import Infrastracture from './view/About us/Infrastracture';
 import Hydroponic from './view/About us/Hydroponic';
 import Blogsvideo from './view/About us/Blogs&video';
 import Contactus from './view/Contact us/Contactus';
+import Login from './view/My Account/Log-in';
+import Signin from './view/My Account/Sign-in';
 import Sugercane from './view/Crops/Sugercane';
 import Grapes from './view/Crops/Grapes';
 import Coffee from'./view/Crops/Coffee';
 import Cotton from'./view/Crops/Cotton';
+import Wheat from './view/Crops/Wheat';
+import Paddy from'./view/Crops/Paddy';
+import Maize from'./view/Crops/Maize';
+import Groundnut from'./view/Crops/Groundnut';
 const router = createBrowserRouter([
   
   {
@@ -72,6 +78,14 @@ const router = createBrowserRouter([
     element: <Sugercane />
   },
   {
+    path: '/login',
+    element: <Login />
+  },
+  {
+    path: '/signin',
+    element: <Signin />
+  },
+  {
     path: '/grapes',
     element: <Grapes />
   },
@@ -82,6 +96,22 @@ const router = createBrowserRouter([
   {
     path: '/cotton',
     element: <Cotton/>
+  },
+  {
+    path: '/wheat',
+    element: <Wheat />
+  },
+  {
+    path: '/paddy',
+    element: <Paddy/>
+  },
+  {
+    path: '/maize',
+    element: <Maize />
+  },
+  {
+    path: '/groundnut',
+    element: <Groundnut/>
   }
 ]);
 

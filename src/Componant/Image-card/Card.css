@@ -13,12 +13,16 @@ height: 330px;
 width: 260px;
 }
 .card:hover{
-    box-shadow: 0 0 10px rgb(8, 21, 92);
+    box-shadow: 0 0 10px rgb(8, 19, 83);
     }
 .card-img{
 height: 330px;
 width: 260px;
+object-fit: cover;
 }
+.card-img:hover{
+    box-shadow: 0 0 10px rgb(45, 55, 112);
+    }
 .card-text{
     position: absolute;
     top: 20px;
@@ -75,6 +79,7 @@ button{
     .card-img{
     height: 220px;
     width: 160px;
+    object-fit: cover;
     }
     .card-text{
         position: absolute;
