@@ -1,0 +1,26 @@
+
+.p{
+    text-align: center;
+    font-weight: 700;
+    
+    
+}
+.p2{
+    font-weight: 500;
+}
+.card-title{
+    color: green;
+
+}
+.card-title:hover{
+    color: greenyellow;
+}
+.card{
+    margin: auto;
+}
+.sub-heading{
+margin-left: 270px;
+}
+
+
+
