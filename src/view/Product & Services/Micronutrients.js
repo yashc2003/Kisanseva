@@ -79,7 +79,177 @@ import Footer from './../../Componant/Footer/Footer';
    
   </div>
 </div>
-<div></div>
+
+
+<div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/calpro.png" alt=".."/>
+        </div>
+        <div class="middle-card1 ps-4">
+           <h2 class="text-success mt-4">Calpro</h2>
+           <h3>Product Features</h3>
+           <ul>
+            <li>Cream coloured powder, completely soluble in water.</li>
+           </ul>
+           <h3>Contents</h3>
+           <ul>
+            <li>Organic Carbon = 20-22%.</li>
+           </ul>
+           
+           <ul>
+            <li>Pack Size</li>
+            <p>100gm/ 300gm</p>
+            <li>Dosage</li>
+            <p>Soil / Drip Irrigation – 300 gm per acre</p>
+
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/calpro.png" alt=".."/>
+            <div class="productname">
+                <h2>Calpro</h2>
+                <button>REDE MORE</button>
+            </div>
+            </div>
+            </div>
+
+
+            <div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/chelacal-1kg.png" alt=".."/>
+        </div>
+        <div class="middle-card1 ps-4">
+           <h2 class="text-success mt-4">Chelacal</h2>
+           <h3>Product Features</h3>
+           <ul>
+            <li>Strengthens cell walls and improves transportability of metabolites in fruits & flowers.</li>
+           </ul>
+           <h3>Contents</h3>
+           <ul>
+            <li>Ca as Ca-EDTA = 10%.</li>
+           </ul>
+           
+           <ul>
+            <li>Pack Size</li>
+            <p>100 gm/ 250 gm/ 500 gm</p>
+            <li>Dosage</li>
+            <p>Fertigation: 500 gms per acre</p>
+
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/chelacal-1kg.png" alt=".."/>
+            <div class="productname">
+                <h2>Chelacal</h2>
+                <button>REDE MORE</button>
+            </div>
+            </div>
+            </div>
+
+
+            <div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/Agromin-Gold-4.png" alt=".."/>
+        </div>
+        <div class="middle-card1 ps-4">
+           <h2 class="text-success mt-4">Agromin Gold</h2>
+           <h3>Product Features</h3>
+           <ul>
+            <li>Provides essential nutrients to crops and increase their growth..</li>
+           </ul>
+           <h3>Contents</h3>
+           <ul>
+            <li>Iron in complex organic form = 2.5% w/w</li>
+           </ul>
+           
+           <ul>
+            <li>Pack Size</li>
+            <p>50ml/ 100ml/ 250ml/ 500ml/ 1ltr</p>
+            <li>Dosage</li>
+            <p>Soil / Drip Irrigation – 300 ml per acre</p>
+
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Agromin-Gold-4.png" alt=".."/>
+            <div class="productname">
+                <h2>Agromin Gold</h2>
+                <button>REDE MORE</button>
+            </div>
+            </div>
+            </div>
+
+
+            <div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/Agromin-Foliar-Spray-powder.png" alt=".."/>
+        </div>
+        <div class="middle-card1 ps-4">
+           <h2 class="text-success mt-4">Agromin Max Foliar Spray</h2>
+           <h3>Product Features</h3>
+           <ul>
+            <li>Superfine, highly concentrated, instantly soluble spray dried powder.</li>
+           </ul>
+           <h3>Contents</h3>
+           <ul>
+            <li>Organic Carbon = 20-22%.</li>
+           </ul>
+           
+           <ul>
+            <li>Pack Size</li>
+            <p>25 gm/ 100 gm/ 250 gm/ 500 gm/ 1 kg/ 5 kg</p>
+            <li>Dosage</li>
+            <p>Soil / Drip Irrigation – 300 gm per acre</p>
+
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Agromin-Foliar-Spray-powder.png" alt=".."/>
+            <div class="productname">
+                <h2>Agromin Max Foliar Spray</h2>
+                <button>REDE MORE</button>
+            </div>
+            </div>
+            </div>
+
+
+            <div class="mainbox1">
+        <div class="left-card1">
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/Agromin-Soil-application-mockup.png" alt=".."/>
+        </div>
+        <div class="middle-card1 ps-4">
+           <h2 class="text-success mt-4">Agromin SA</h2>
+           <h3>Product Features</h3>
+           <ul>
+            <li>Agromin provides essential plant nutrients such as Zinc, Iron, Manganese, Copper,
+                 Boron, and Molybdenum in ideal predetermined proportions. It prevents and corrects traced elements deficiency from the onset..</li>
+           </ul>
+           <h3>Contents</h3>
+           <ul>
+            <li>Zinc as Zn = 5%
+Iron as Fe = 2%
+Manganese as Mn = 1%.</li>
+           </ul>
+           
+           <ul>
+            <li>Pack Size</li>
+            <p>1 kg/ 5 kg/ 10 kg/ 25 kg/ 50 kg</p>
+            <li>Dosage</li>
+            <p>Soil / Drip Irrigation – 500 gm per acre</p>
+
+           </ul>
+        </div>
+        <div class="right-card1">
+            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Agromin-Soil-application-mockup.png" alt=".."/>
+            <div class="productname">
+                <h2>Agromin SA</h2>
+                <button>REDE MORE</button>
+            </div>
+            </div>
+            </div>
+
+
+            
             <Footer/>
         </div>
     )
