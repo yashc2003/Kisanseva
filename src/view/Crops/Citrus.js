@@ -1,7 +1,7 @@
 import React from "react"
 import "./../Crops/Grapes.css"
 import Navbar from "../../Componant/Navbar/Navbar";
-import Product4 from "../../Componant/Crops Product/Product4";
+import Product10 from "../../Componant/Crops Product/Product10";
 import Footer from "../../Componant/Footer/Footer";
 import Banner2 from "../../Componant/Banner/Banner2";
 
@@ -15,41 +15,17 @@ const ProductCard = (props) => {
     <div>
    <Navbar/>
    <div class="bannerhed">
-    <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/17762/1-HX787212.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/15583/19-SM632624.jpg" alt=".."/>
     <div class="text-containt">
-        <h1 class="heading">COTTON</h1>
+        <h1 class="heading">CITRUS</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
     </div>
 
   </div>
 
-    <div className="mainbox">
-      <div className="left-card">
-        <h2 className="text-success ">{productName}</h2>
-        <h3>PRODUCT</h3>
-        <hr/>
-        <p>Majorsol cotton supplies needed phosphorus and potash in balanced proportion along with secondary & micronutrients. 
-            Enhances quality of lint and increases oil percentage in seed. Its application increases disease and pest resistance.</p>
-        
-        <h4 class="text-success mt-5">{packSize}</h4>
-       
-      </div>
-      <div className="middle-card ps-4">
-       <img className="productimg" src={imgSrc} alt=".." />
-       <button>{moreButtonText}</button>
-      </div>
-      <div className="right-card">
-        <h3>CONTENTS</h3>
-        <hr/>
-        <ul>
-          {description.map((item, index) => (
-            <li key={index}>{item}</li>
-          ))}
-        </ul>
-      </div>
-    </div>
+    
 
-   <Product4/>
+   <Product10/>
     <Banner2/>
     <Footer/>
     </div>

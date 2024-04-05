@@ -18,7 +18,7 @@ const ProductCard = (props) => {
     <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/14266/12-EZ525469.jpg" alt=".."/>
     <div class="text-containt">
         <h1 class="heading">Grapes</h1>
-        <p class="sub-heading">better harvest better tomorrow</p>
+        <p class="sub-heading">Better harvest better tomorrow</p>
     </div>
 
   </div>

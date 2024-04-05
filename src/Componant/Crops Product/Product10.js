@@ -7,17 +7,17 @@ import "./../../Componant/Crops Product/Product1.css"
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nito.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitrogene-2.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Leaf become uniformly light green or yellow colour.</li>
+            <li>Yellowing of older leaves,plant growth is ceased.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Overall reduction in growth.</li>
+            <li>Poor fruit set and smaller fruit.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -45,26 +45,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phosphorus-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>The appearance of red dots on basal portion.</li>
+            <li>Leaves are dull bronzed green and they shed readily.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>The appearance of red dots on basal portion.</li>
+            <li>Affects fruit quality causing mis-shapen fruit with open centres and coarse thickened rinds.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Fertimax 12:61:00 5gm/lit</p>
+            <p>Fertimax 12:61:00 5gm/lit, Fertimax 00:52:34( 5-10gm/lit)</p>
             <li>Soil/Drip</li>
             <p>Plantex 12:61:00 5kg/acre</p>
             <li>Benefit</li>
-            <p>Maintain longterm productivity</p>
+            <p>Root development, winter hardness</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -82,13 +82,13 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pot-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/potassium-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-2">Potassium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Colour fading from leaf margins,leaf margins becomes necrotic and curling occurs.</li>
+            <li>Dieback follows in the weakened twigs and bloom decreases.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
