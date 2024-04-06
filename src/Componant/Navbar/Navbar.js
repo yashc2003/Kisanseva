@@ -55,8 +55,8 @@ function Navbar() {
       <select class="form-select" aria-label="Default select example">
        <option selected>Select Language</option>
         <option value="1">English</option>
-        <option value="2">Hindi</option>
-        <option value="3">Marathi</option>
+        <option value="2">हिन्दी</option>
+        <option value="3"> मराठी</option>
       </select>
      <a href="/login"><img class="login-img" src={Login}/></a>
     </div>

@@ -2,6 +2,7 @@ import React from "react"
 import "./../Product & Services/Micronutrients.css"
 import Navbar from './../../Componant/Navbar/Navbar';
 import Footer from './../../Componant/Footer/Footer';
+import Banner2 from "../../Componant/Banner/Banner2";
 
  function Micronutrients()  {
     return(
@@ -9,7 +10,7 @@ import Footer from './../../Componant/Footer/Footer';
             <Navbar/>
             
             <div class="bannerhed">
-    <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://www.ipi-singapore.org/contents/2022/08/shutterstock283999568-16613483513028/shutterstock_283999568.jpg" alt=".."/>
     <div class="text-containt">
         <h1 class="heading">MULTI MICRONUTRIENTS AND MIX MICRONUTRIENT FERTILIZERS</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
@@ -249,7 +250,7 @@ Manganese as Mn = 1%.</li>
             </div>
 
 
-            
+            <Banner2/>
             <Footer/>
         </div>
     )
