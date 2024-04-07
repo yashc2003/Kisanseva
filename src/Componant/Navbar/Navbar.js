@@ -1,6 +1,7 @@
 import React from "react";
 import "./../../Componant/Navbar/Navbar.css"
 import Login from "./../../Componant/assets/login.png";
+import Translater from "./../../Componant/Google translater/TanslaterComponent"
 import Navbarimag from "./../../Componant/assets/kpng1.png";
 
 
@@ -52,12 +53,7 @@ function Navbar() {
 
        
       </ul>
-      <select class="form-select" aria-label="Default select example">
-       <option selected>Select Language</option>
-        <option value="1">English</option>
-        <option value="2">हिन्दी</option>
-        <option value="3"> मराठी</option>
-      </select>
+      <Translater/>
      <a href="/login"><img class="login-img" src={Login}/></a>
     </div>
   </div>

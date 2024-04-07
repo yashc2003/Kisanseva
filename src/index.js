@@ -13,8 +13,6 @@ import Infrastracture from './view/About us/Infrastracture';
 import Hydroponic from './view/About us/Hydroponic';
 import Blogsvideo from './view/About us/Blogs&video';
 import Contactus from './view/Contact us/Contactus';
-import Login from './view/My Account/Log-in';
-import Signin from './view/My Account/Sign-in';
 import Sugercane from './view/Crops/Sugercane';
 import Grapes from './view/Crops/Grapes';
 import Coffee from'./view/Crops/Coffee';
@@ -92,14 +90,7 @@ const router = createBrowserRouter([
     path: '/sugercane',
     element: <Sugercane />
   },
-  {
-    path: '/login',
-    element: <Login />
-  },
-  {
-    path: '/signin',
-    element: <Signin />
-  },
+
   {
     path: '/grapes',
     element: <Grapes />
