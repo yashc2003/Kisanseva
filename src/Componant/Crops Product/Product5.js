@@ -7,7 +7,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/Group-1000005106.png" alt=".seeds image."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/Group-1000005106.png" alt="..."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Majorsol Wheat</h2>
