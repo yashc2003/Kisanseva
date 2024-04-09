@@ -1,13 +1,13 @@
 import React from "react"
 import "./../../Componant/Crops Product/Product1.css"
 
- function Product2()  {
+ function Product11()  {
     
     return(
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitro-12.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nitrogene-3.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
@@ -45,7 +45,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/phosphorus-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
@@ -82,7 +82,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pot.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/potassium-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-2">Potassium Deficiency</h2>
@@ -118,7 +118,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/calcium-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Calcium Deficiency</h2>
@@ -155,7 +155,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-7.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sulpphur.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Sulphur Deficiency</h2>
@@ -192,7 +192,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag-6.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/magnesium-4.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success ">Magnesium Deficiency</h2>
@@ -225,7 +225,7 @@ import "./../../Componant/Crops Product/Product1.css"
          
        <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/boron-9.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/boron-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Boron Deficiency</h2>
@@ -259,7 +259,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/zinc-3-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Zinc Deficiency</h2>
@@ -294,7 +294,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/iron-13.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/iron-4.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Iron Deficiency</h2>
@@ -328,7 +328,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/copper-4.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/copper-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Copper Deficiency</h2>
@@ -362,7 +362,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/man-6.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/manganese-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Manganese Deficiency</h2>
@@ -395,41 +395,12 @@ import "./../../Componant/Crops Product/Product1.css"
     </div>
 
 
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/moly.jpg" alt=".."/>
-        </div>
-         <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-4">Molybdenum Deficiency</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Older leaves become abnormal in shape where as younger ones remain same.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>Older leaves exhibit chlorosis with interveinal necrotic spots.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Mobomin 1.5-2gm/lit</p>
-            <li>Soil/Drip</li>
-            <p>--</p>
-            <li>Benefit</li>
-            <p>Helps in nitrogen metabolism</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/mobomin-1-300x300.png" alt=".."/>
-            <div class="productname">
-                <h2>Mobomin</h2>
-                <button>REDE MORE</button>
-            </div>
+   
 
-        </div>
-    </div>
+        
+    
         </div>
     )
     
 }
-export default Product2
+export default Product11

@@ -1,7 +1,7 @@
 import React from "react"
 import "./../Crops/Grapes.css"
 import Navbar from "../../Componant/Navbar/Navbar";
-import Product5 from "../../Componant/Crops Product/Product5";
+import Product16 from "../../Componant/Crops Product/Product16";
 import Footer from "../../Componant/Footer/Footer";
 import Banner2 from "../../Componant/Banner/Banner2";
 
@@ -15,9 +15,9 @@ const ProductCard = (props) => {
     <div>
    <Navbar/>
    <div class="bannerhed">
-    <img class="sugercaneimg" src="https://media.gettyimages.com/id/479629438/photo/wheat.jpg?s=612x612&w=0&k=20&c=fJpTBCLVasl_dbMgkofYeZuxBbhpxZ6uM9IxgMzEiAo=" alt=".."/>
+    <img class="sugercaneimg" src="https://media.gettyimages.com/id/1372722029/photo/cuernavaca-colombia-cacao-fruits-are-seen-growing-on-cacao-trees-on-a-traditional-cacao-farm.jpg?s=612x612&w=0&k=20&c=glj1bqLUKY4MTl8_g8VJnff_Q9FFXUw-QSOlIvlFRE8=" alt=".."/>
     <div class="text-containt">
-        <h1 class="heading">WHEAT</h1>
+        <h1 class="heading">COCOA</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
     </div>
 
@@ -49,7 +49,7 @@ const ProductCard = (props) => {
       </div>
     </div>
 
-   <Product5/>
+   <Product16/>
     <Banner2/>
     <Footer/>
     </div>
