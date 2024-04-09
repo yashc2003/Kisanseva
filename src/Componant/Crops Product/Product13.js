@@ -1,50 +1,16 @@
 import React from "react"
 import "./../../Componant/Crops Product/Product1.css"
 
- function Product1()  {
+ function Product13()  {
     return(
         <div>
 
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/Group-1000005106.png" alt=".seeds image."/>
-        </div>
-        <div class="middle-card1 ps-4">
-           <h2 class="text-success mt-4">Majorsol Wheat</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Older leaves dying prematurely when storage is severe.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>Effects on older and younger leaves.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Macrofert 20:20:20 5gm/lit</p>
-            <li>Soil/Drip</li>
-            <p>Plantex 12:61:00 5kg/acre</p>
-            <li>Benefit</li>
-            <p>Helps in vegetative growth, formation of amino acids</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/fertimaxpk-1.png" alt=".."/>
-            <div class="productname">
-                <h2>FertiMax PK</h2>
-                <button>REDE MORE</button>
-            </div>
-
-        </div>
-    </div>
-
-
+    
 
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pota-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/Potassium-new-1.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Potassium Deficiency</h2>
@@ -80,7 +46,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/boron-6.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/calcium-new.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Calcium Deficiency</h2>
@@ -117,7 +83,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sul-4.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sulphur-new.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Sulphur Deficiency</h2>
@@ -154,7 +120,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/magnesium-new.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Magnesium Deficiency</h2>
@@ -186,7 +152,11 @@ import "./../../Componant/Crops Product/Product1.css"
         </div>
     </div>
         </div>
+
+        
+
+
     )
     
 }
-export default Product1
+export default Product13

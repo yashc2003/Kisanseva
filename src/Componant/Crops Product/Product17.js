@@ -1,55 +1,17 @@
 import React from "react"
 import "./../../Componant/Crops Product/Product1.css"
 
- function Product1()  {
+ function Product17()  {
     return(
         <div>
-             <div class="bannerhed">
-    <img class="sugercaneimg" src="https://media.gettyimages.com/id/182159812/photo/detail-of-sugar-cane.jpg?s=612x612&w=0&k=20&c=8_i2iZugh1ReRjiExIObaqkRHYIaY9u8-4dfqDBJY3o=" alt=".."/>
-    <div class="text-containt">
-        <h1 class="heading">SUGERCANE</h1>
-        <p class="sub-heading">better harvest better tomorrow</p>
-    </div>
-
-  </div>
-
-
-
-    <div class="mainbox">
-        <div class="left-card">
-            <h2 class="text-success">Canemin</h2>
-            <h3>PRODUCT</h3>
-            <hr/>
-            <p>Specifically designed for higher yield of Sugarcane cosidering its micronutrients requirement</p>
-            <h4 class="packege">Pack Size:- 5kg/10kg</h4>
-        </div>
-        <div class="middle-card">
-            <img class="productimg" src="https://ariesagro.com/wp-content/uploads/2022/11/Canemin-product-1.png" alt=".."/>
-           <button class="ms-5">REDE MORE</button>
-        </div>
-        <div class="right-card">
-            <h2>CONTENTS</h2>
-            <hr/>
-            <ul>
-                <li>Calcium as Ca = 4%</li>
-                <li>Magnesium as Mg = 2%</li>
-                <li>Iron as Fe = 4%</li>
-                <li> Zinc as Zn = 5%</li>
-                <li> Manganese as Mn = 3%</li>
-                <li>Copper as Cu = 0.7%</li>
-                <li>Boron as B = 0.6%</li>
-                <li>Sulphur as S = 15%</li>
-            </ul>
-        </div>
-    </div>
-
+             
 
 
 
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitro-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nit.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
@@ -87,7 +49,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/phos-11.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
@@ -124,7 +86,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pota-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/pot-2.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Potassium Deficiency</h2>
@@ -160,7 +122,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/cal.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/cal-8.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Calcium Deficiency</h2>
@@ -197,7 +159,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sul-11.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Sulphur Deficiency</h2>
@@ -234,7 +196,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/mag-12.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
            <h2 class="text-success mt-4">Magnesium Deficiency</h2>
@@ -269,4 +231,4 @@ import "./../../Componant/Crops Product/Product1.css"
     )
     
 }
-export default Product1
+export default Product17

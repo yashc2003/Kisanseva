@@ -1,13 +1,13 @@
 import React from "react"
 import "./../../Componant/Crops Product/Product1.css"
 
- function Product2()  {
+ function Product15()  {
     
     return(
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitro-12.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nitro-13.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
@@ -43,82 +43,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
 
 
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7.jpg" alt=".."/>
-        </div>
-         <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Reddish purplish colour of older leaves.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>Premature leaf fall, proper root development is not there.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Fertimax 12:61:00 5gm/lit,Fertimax 00:52:34( 5-10gm/lit)</p>
-            <li>Soil/Drip</li>
-            <p>Plantex 12:61:00 5kg/acre</p>
-            <li>Benefit</li>
-            <p>Root development, winter hardness.</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/fertimaxpk-1.png" alt=".."/>
-            <div class="productname">
-                <h2>Fertimax PK</h2>
-                <button>REDE MORE</button>
-            </div>
-
-        </div>
-    </div>
+    
 
 
+
+
+   
 
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pot.jpg" alt=".."/>
-        </div>
-         <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-2">Potassium Deficiency</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Older leaves turn into thick green colour,burning of leaf margins.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>Necrotic spots appear on the tip of older leaves.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Fertimax 00:00:50 5gm/lit, Fertimax13:00:45( 5-10gm/lit), Fertisol 3-5gm/lit</p>
-            <li>Soil/Drip</li>
-            <p>--</p>
-            <li>Benefit</li>
-            <p>Resistance to pests and diseases,opening and closing of stomata</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Fertisol-super-1.png" alt=".."/>
-            <div class="productname">
-                <h2>Fertisol</h2>
-                <button>REDE MORE</button>
-            </div>
-
-        </div>
-    </div>
-
-
-
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/cal-5.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Calcium Deficiency</h2>
@@ -153,46 +88,14 @@ import "./../../Componant/Crops Product/Product1.css"
 
 
 
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-7.jpg" alt=".."/>
-        </div>
-         <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-3">Sulphur Deficiency</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Yellowing of younger leaves.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>Flavour is reduced.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Primasulf 3-4ml/lit, fertisol 5gm/lit</p>
-            <li>Soil/Drip</li>
-            <p>--</p>
-            <li>Benefit</li>
-            <p>Improves special character in crop</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/Prima-sulf-1-1.png" alt=".."/>
-            <div class="productname">
-                <h2>Primasulf</h2>
-                <button>REDE MORE</button>
-            </div>
-
-        </div>
-    </div>
+    
 
 
 
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag-6.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/mag-7.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success ">Magnesium Deficiency</h2>
@@ -225,7 +128,7 @@ import "./../../Componant/Crops Product/Product1.css"
          
        <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/boron-9.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/Boron-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Boron Deficiency</h2>
@@ -259,7 +162,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/zinc-11.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Zinc Deficiency</h2>
@@ -294,7 +197,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/iron-13.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/iron-14.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Iron Deficiency</h2>
@@ -326,43 +229,10 @@ import "./../../Componant/Crops Product/Product1.css"
         </div>
     </div>
 
+    
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/copper-4.jpg" alt=".."/>
-        </div>
-         <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-4">Copper Deficiency</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Pale greyish green interveinal chlorosis spreads from tip of leaf base.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>Newly emerging leaves short,narrow and light green,plants shorter.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Phosphocop 2-3ml/lit</p>
-            <li>Soil/Drip</li>
-            <p>--</p>
-            <li>Benefit</li>
-            <p>Serves to intensify flavour and colour in vegetables and colour in flowers</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/12/Phosphocop-300x300.png" alt=".."/>
-            <div class="productname">
-                <h2>Phosphocop</h2>
-                <button>REDE MORE</button>
-            </div>
-
-        </div>
-    </div>
-
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/man-6.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/man-7.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Manganese Deficiency</h2>
@@ -397,7 +267,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/moly.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/moly-1.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Molybdenum Deficiency</h2>
@@ -432,4 +302,4 @@ import "./../../Componant/Crops Product/Product1.css"
     )
     
 }
-export default Product2
+export default Product15
