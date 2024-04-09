@@ -1,7 +1,7 @@
 import React from "react"
 import "./../Crops/Grapes.css"
 import Navbar from "../../Componant/Navbar/Navbar";
-import Product4 from "../../Componant/Crops Product/Product4";
+import Product18 from "../../Componant/Crops Product/Product18";
 import Footer from "../../Componant/Footer/Footer";
 import Banner2 from "../../Componant/Banner/Banner2";
 
@@ -15,9 +15,9 @@ const ProductCard = (props) => {
     <div>
    <Navbar/>
    <div class="bannerhed">
-    <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/17762/1-HX787212.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://media.gettyimages.com/id/98026003/photo/tomatoes.jpg?s=612x612&w=0&k=20&c=d5wExaxj68PSVNeWho3KF9PROq1T0v0WhFEv4WVyyKw=" alt=".."/>
     <div class="text-containt">
-        <h1 class="heading">COTTON</h1>
+        <h1 class="heading">TOMATO</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
     </div>
 
@@ -49,7 +49,7 @@ const ProductCard = (props) => {
       </div>
     </div>
 
-   <Product4/>
+   <Product18/>
     <Banner2/>
     <Footer/>
     </div>
