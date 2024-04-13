@@ -8,7 +8,7 @@ import Cardslider2 from '../../Componant/Product card slider/Card slider2'
 import Footer from "./../../Componant/Footer/Footer"
 import Imagecard from "./../../Componant/Image-card/Card"
 import Preloader from '../../Componant/preloader/preloader'
-
+import WeatherApp from './../../Componant/Weather app/WeatherApp'
 function Home() {
   console.log(process.env.REACT_APP_APPWRITE_URL)
   return (
@@ -16,6 +16,7 @@ function Home() {
       <Navbar/>
       <Banner/>
       <Preloader/>
+      <WeatherApp/>
       <Imagecard/>
       <Cardslider/>
       <Cardslider2/>

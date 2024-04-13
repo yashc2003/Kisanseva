@@ -8,16 +8,16 @@ function Cardslider () {
         <div id="carouselExampleFade4" class="carousel slide carousel-fade2">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <div class="container text-center">
+      <div class="container1 text-center">
         <div class="row row-cols-6">
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/calpro.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/12/orgafert-new.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title ">
-                          <p>Micronutrients</p>
-                          <h4 class="h4">Calpro</h4>
+                          <p>Organic/Bio Products</p>
+                          <h4 class="h4">Orgafert</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -27,11 +27,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/chelacal-1kg.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/Orgaboost-product-1.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Chelacal</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Orgaboost</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -41,11 +41,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/chelacop-250gm.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/OrgaPotash-product.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Chelacop</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">OrgaPotash</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -55,11 +55,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/chelafer-500gm-2-1-1.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/OrgaPROM.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Chelafer</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">OrgaPROM</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -69,11 +69,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/chelamag-2.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/TRISHOOL-neem-cake.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Chelamag</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Trishool</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -83,11 +83,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/mobomin.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/Endomyco-poduct-1.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Mobomin</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Endomyco</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -99,16 +99,16 @@ function Cardslider () {
     
     </div>
     <div class="carousel-item">
-      <div class="container text-center">
+      <div class="container1 text-center">
         <div class="row row-cols-6">
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/chelamin-plus-50g-300x300-1.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/Terrazinc-project.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Chelamin+</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Terrazinc</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -118,11 +118,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/mnchel-2.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/Ariphos.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">MnCHEL</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Ariphos</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -132,11 +132,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/potabor.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/Nitrofix-product.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Potabor</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Nitrofix</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -146,11 +146,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/zincmag-1-1-1.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/12/Antox-1-1.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Zincmag</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Antox</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -160,11 +160,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/Ferromag.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/12/hydro-pro-1-1.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Ferromag</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">Hydropro</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -174,11 +174,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/zincbor.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/HumiBlack-project.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Zincbar</h4>
+                      <p>Organic/Bio Products</p>
+                          <h4 class="h4">HumiBlack</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -189,16 +189,16 @@ function Cardslider () {
       </div>
     </div>
     <div class="carousel-item">
-      <div class="container text-center">
+      <div class="container1 text-center">
         <div class="row row-cols-6">
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/Group-1000005249.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/Haasil.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title ">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">ProZink</h4>
+                      <p>Plant Protectants</p>
+                          <h4 class="h4">Haasil</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -208,11 +208,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/Agromin-Soil-application-mockup.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/Jahaan.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">AgrominSA</h4>
+                      <p>Plant Protectants</p>
+                          <h4 class="h4">Jahaan</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -222,11 +222,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/Ferromix1.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/12/Agronaa.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Ferromix1</h4>
+                      <p>Plant Protectants</p>
+                          <h4 class="h4">Agronaa</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -236,11 +236,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/Boromag-5kg.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2023/04/Trishool-neem-oil.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Boromag</h4>
+                      <p>Plant Protectants</p>
+                          <h4 class="h4">Trishoolneem</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -250,11 +250,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/mn-sulf.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/12/Paramvir.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">MnSulf</h4>
+                      <p>Plant Protectants</p>
+                          <h4 class="h4">Paramvir</h4>
                           <button>Read more</button>
                       </div>
                   </div>
@@ -264,11 +264,11 @@ function Cardslider () {
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
               <div>
-                  <img src="https://ariesagro.com/wp-content/uploads/2022/11/boro_20.png" height="180px" width="180px" class="smallcard"/>
+                  <img src="https://ariesagro.com/wp-content/uploads/2022/12/Paraakram.png" height="180px" width="180px" class="smallcard"/>
                   <div class="details mt-1">
                       <div class="title fw-normal ms-2">
-                      <p>Micronutrients</p>
-                          <h4 class="h4">Boro20</h4>
+                      <p>Plant Protectants</p>
+                          <h4 class="h4">Paraakram</h4>
                           <button>Read more</button>
                       </div>
                   </div>

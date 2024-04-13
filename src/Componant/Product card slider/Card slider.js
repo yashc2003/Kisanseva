@@ -5,10 +5,10 @@ function Cardslider () {
     return (
       <div>
         <h2 class="sub-title">Multi Micronutrient And Mix Micronutrient Fertilizer</h2>
-        <div id="carouselExampleFade3" class="carousel slide carousel-fade1">
+ <div id="carouselExampleFade3" class="carousel slide carousel-fade1">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <div class="container text-center">
+      <div class="container1 text-center">
         <div class="row row-cols-6">
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
@@ -99,7 +99,7 @@ function Cardslider () {
     
     </div>
     <div class="carousel-item">
-      <div class="container text-center">
+      <div class="container1 text-center">
         <div class="row row-cols-6">
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
@@ -189,7 +189,7 @@ function Cardslider () {
       </div>
     </div>
     <div class="carousel-item">
-      <div class="container text-center">
+      <div class="container1 text-center">
         <div class="row row-cols-6">
           <div class="col">
             <div class="col-md-2  col-sm-4 mt-3 cards">
