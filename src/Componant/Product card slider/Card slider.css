@@ -1,0 +1,78 @@
+#carouselExampleFade4{
+    width: 1200px;
+    margin-left: 60px;
+}
+#carouselExampleFade3{
+    width: 1200px;
+    margin-left: 60px;
+}
+.col{
+    margin-bottom: 30px;
+    background-color: rgb(253, 252, 251);
+}
+
+.sub-title{
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgba(12, 11, 10, 0.774);
+}
+span{
+    color: rgb(36, 33, 33);
+}
+p{
+    margin-top: 1px;
+    margin-left: 25px;
+    color: black;
+}
+.h4{
+    margin-left: 30px;
+    margin-top: 0px;
+    color: rgba(31, 5, 5, 0.986);
+}
+.smallcard{
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(207, 207, 206);
+}
+.smallcard:hover{
+    
+    width: 182px;
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(87, 80, 104);
+}
+.carousel-control-prev-icon {
+    height: 35px;
+    width: 35px;
+    color: rgb(240, 236, 236);
+    background-color: rgba(0, 0, 0, 0.575);
+    border-radius: 50%;
+
+}
+.carousel-control-next-icon{
+    height: 35px;
+    width: 35px;
+    color: rgb(240, 236, 236);
+    background-color: rgba(0, 0, 0, 0.575);
+    border-radius: 50%;
+
+}
+.carousel-control-prev-icon:hover {
+    height: 40px;
+    width: 40px;
+    color: rgb(240, 236, 236);
+    background-color: rgba(0, 0, 0, 0.575);
+    border-radius: 50%;
+
+}
+.carousel-control-next-icon:hover {
+    height: 40px;
+    width: 40px;
+    color: rgb(240, 236, 236);
+    background-color: rgba(0, 0, 0, 0.575);
+    border-radius: 50%;
+
+}
