@@ -1,7 +1,7 @@
 import React from "react"
 import "./../Crops/Grapes.css"
 import Navbar from "../../Componant/Navbar/Navbar";
-import Product3 from "../../Componant/Crops Product/Product3";
+import Product21 from "../../Componant/Crops Product/Product21";
 import Footer from "../../Componant/Footer/Footer";
 import Banner2 from "../../Componant/Banner/Banner2";
 
@@ -15,42 +15,16 @@ const ProductCard = (props) => {
     <div>
    <Navbar/>
    <div class="bannerhed">
-    <img class="sugercaneimg" src="https://d3nn873nee648n.cloudfront.net/900x600/20598/1-PK1060966.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://media.gettyimages.com/id/1290200732/photo/close-up-fresh-chilli-pepper-in-garden-concept-organic-chillies-vegetable-planting-in-farm.jpg?s=612x612&w=0&k=20&c=lt-pGwd7N9nX6VzTYUZp7TNTANEyBfr_oGHjT2ZrORU=" alt=".."/>
     <div class="text-containt">
-        <h1 class="heading">COFFEE</h1>
+        <h1 class="heading">CHILLI</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
     </div>
 
   </div>
 
-    <div className="mainbox">
-      <div className="left-card">
-        <h2 className="text-success ">{productName}</h2>
-        <h3>PRODUCT</h3>
-        <hr/>
-        <p>Coffeemin is a blend of essential nutrients to supply balanced levels of minerals to coffee plantations.
-             Coffeemin increases yield by supplying nutrients to overcome deficiencies at critical growth stages. 
-             For the best coffee produce and meeting the desired nutrition needs</p>
-        
-        <h4 class="text-success mt-5">{packSize}</h4>
-       
-      </div>
-      <div className="middle-card ps-4">
-       <img className="productimg" src={imgSrc} alt=".." />
-       <button>{moreButtonText}</button>
-      </div>
-      <div className="right-card">
-        <h3>CONTENTS</h3>
-        <hr/>
-        <ul>
-          {description.map((item, index) => (
-            <li key={index}>{item}</li>
-          ))}
-        </ul>
-      </div>
-    </div>
-
-   <Product3/>
+   
+   <Product21/>
     <Banner2/>
     <Footer/>
     </div>

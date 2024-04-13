@@ -23,30 +23,7 @@ const ProductCard = (props) => {
 
   </div>
 
-    <div className="mainbox">
-      <div className="left-card">
-        <h2 className="text-success ">{productName}</h2>
-        <h3>PRODUCT</h3>
-        <hr/>
-        <p>Majorsol Paddy is a high performance soil application fertilizer. Helps to increase disease resistance power in crop</p>
-        
-        <h4 class="text-success mt-5">{packSize}</h4>
-       
-      </div>
-      <div className="middle-card ps-4">
-       <img className="productimg" src={imgSrc} alt=".." />
-       <button>{moreButtonText}</button>
-      </div>
-      <div className="right-card">
-        <h3>CONTENTS</h3>
-        <hr/>
-        <ul>
-          {description.map((item, index) => (
-            <li key={index}>{item}</li>
-          ))}
-        </ul>
-      </div>
-    </div>
+    
 
    <Product14/>
     <Banner2/>
