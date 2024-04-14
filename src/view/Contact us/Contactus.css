@@ -104,3 +104,61 @@ body {
     height: 130px;
     width: 130px;
 }
+
+
+
+
+
+.top-heading {
+    font-size: 50px;
+  color: #12cc1b;
+  text-align: center;
+  margin: 40px;
+}
+
+
+.availability form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    background: #eee;
+    padding: 2rem;
+    border-radius: .5rem;
+}
+
+.availability form .box{
+    flex: 1 1 20rem;
+}
+
+.availability form .box p{
+    font-size: 2rem;     /* 1rem = 16px */
+    color: var(--primary);
+}
+
+.availability form .box .input{
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.8rem;
+    color: var(--black);
+    margin: 1rem 0;
+    border-radius: .5rem;
+}
+.btn{
+    margin-left: 20px;
+    border: black 1px solid;
+    text-decoration: none;
+  }
+  .btn:hover{
+    border: #12ca1b 1px solid;
+    background-color: #00d6123a;
+    color: black;
+  }
+  
+  .headof{
+color: yellow;
+text-align: center;
+  }
+  .contact{
+    text-align: center;
+    color: #0f0f0f;
+  }

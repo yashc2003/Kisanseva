@@ -2,11 +2,20 @@ import React from "react"
 import "./../Contact us/Contactus.css"
 import Navbar from './../../Componant/Navbar/Navbar';
 import Footer from './../../Componant/Footer/Footer';
+import WeatherApp from './../../Componant/Weather app/WeatherApp'
 
  function Contactus()  {
     return(
         <div>
             <Navbar/>
+            <div class="bannerhed">
+    <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
+    <div class="text-containt">
+        <h1 class="heading">CONTACT US</h1>
+        <p class="sub-heading">better harvest better tomorrow</p>
+    </div>
+    </div>
+           <br></br>
             <h1 className="hed">Our Team</h1>
             <div>
             <div class="card-container">
@@ -83,7 +92,60 @@ import Footer from './../../Componant/Footer/Footer';
         </div>
         </div>
         </div>
+        <br></br>
+
+        <h1 class="top-heading">We’d Love To Hear From You</h1>
+  <section class="availability">
+
+   <form action="">
+
+      <div class="box">
+         <p>Your Name <span>*</span></p>
+         <input type="text" class="input"/>
+      </div>
+
+      <div class="box">
+         <p>Your Email <span>*</span></p>
+         <input type="text" class="input"/>
+      </div>
+
+      <div class="box">
+         <p>Mobaile Number <span>*</span></p>
+         <input type="text" class="input"/>
         
+      </div>
+
+      <div class="box">
+         <p>Title <span>*</span></p>
+         <input type="text" class="input"/>
+      </div>
+
+      <div class="box">
+         <p>Measage <span>*</span></p>
+         <input type="text" class="input"/>
+      </div>
+
+      <input type="submit" value="Send Query" class="btn"/>
+
+   </form>
+
+</section>
+<br>
+</br>
+
+<h1 className="headof">Registered & Corporate Head Office</h1>
+<br></br>
+<br></br>
+<h3 className="contact">Address :- Kisanseva Pvt Ltd Dattawadi Nagpur 440023</h3>
+<br></br>
+<h3 className="contact">Contact:- +91 22 25529000, +91 22 25564052 / 53</h3>
+<br></br>
+<h3 className="contact">Email:- KisanSeva@gmail.com</h3>
+
+
+        <br></br>
+        
+        <WeatherApp/>
             <Footer/>
         </div>
     )

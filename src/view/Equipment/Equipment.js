@@ -5,11 +5,13 @@ import Footer from './../../Componant/Footer/Footer';
 import Banner2 from "../../Componant/Banner/Banner2";
 import Cardslider from '../../Componant/Product card slider/Card slider'
 import Cardslider2 from '../../Componant/Product card slider/Card slider2'
+import WeatherApp from './../../Componant/Weather app/WeatherApp'
 
  function Equipment()  {
     return(
         <div>
             <Navbar/>
+            
             <div class="bannerhed">
     <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
     <div class="text-containt">
@@ -17,7 +19,8 @@ import Cardslider2 from '../../Componant/Product card slider/Card slider2'
         <p class="sub-heading">better harvest better tomorrow</p>
     </div>
     </div>
-
+    <br></br>
+    <WeatherApp/>
     <div class="mainbox1">
         <div class="left-card1">
             <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2023/03/Agriculture-Drones.png" alt=".."/>

@@ -43,7 +43,7 @@ function Navbar() {
           <ul class="dropdown-menu text-black">
             <li><a class="dropdown-item" href="/infrastracture">Infrastracture</a></li>
             <li><a class="dropdown-item" href="/hydroponic">Hydroponic & Consultancy</a></li>
-            <li><a class="dropdown-item" href="/blogsvideo">Blogs & Video</a></li>
+           
           </ul>
         </li>  
     
