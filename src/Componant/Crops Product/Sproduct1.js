@@ -7,7 +7,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
 <div>
         <div class="bannerhed">
-        <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
+        <img class="sugercaneimg" src="https://aiap.or.ke/wp-content/uploads/2019/03/agricultural-irrigation.jpg" alt=".."/>
         <div class="text-containt">
             <h1 class="heading">WATER SOLUBLE NPK FERTILIZERS</h1>
             <p class="sub-heading">better harvest better tomorrow</p>

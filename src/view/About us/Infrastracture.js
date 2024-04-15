@@ -9,7 +9,7 @@ import Footer from './../../Componant/Footer/Footer';
             <Navbar/>
 
             <div class="bannerhed">
-    <img class="sugercaneimg" src="https://cdn2.hubspot.net/hubfs/4145950/Axis_Group_February2018/Images/shutterstock_399854311.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://www.forbesindia.com/media/images/2023/Feb/img_202133_agriculture.jpg" alt=".."/>
     <div class="text-containt">
         <h1 class="heading">Infrastracture</h1>
         <p class="sub-heading">better harvest better tomorrow</p>

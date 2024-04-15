@@ -6,7 +6,7 @@ import "./../../Componant/Crops Product/Product1.css"
     return(
         <div>
  <div class="bannerhed">
-    <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://wallpaperaccess.com/full/488949.jpg" alt=".."/>
     <div class="text-containt">
         <h1 class="heading">CROP SPECIFIC</h1>
         <p class="sub-heading">better harvest better tomorrow</p>

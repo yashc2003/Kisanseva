@@ -9,10 +9,9 @@ import WeatherApp from './../../Componant/Weather app/WeatherApp'
         <div>
             <Navbar/>
             <div class="bannerhed">
-    <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://it-expertsolutions.com/images/2020/10/30/contact-us-banner.jpg" alt=".."/>
     <div class="text-containt">
-        <h1 class="heading">CONTACT US</h1>
-        <p class="sub-heading">better harvest better tomorrow</p>
+       
     </div>
     </div>
            <br></br>
@@ -125,7 +124,7 @@ import WeatherApp from './../../Componant/Weather app/WeatherApp'
          <input type="text" class="input"/>
       </div>
 
-      <input type="submit" value="Send Query" class="btn"/>
+      <input type="submit" value="Send Query" class="btns"/>
 
    </form>
 

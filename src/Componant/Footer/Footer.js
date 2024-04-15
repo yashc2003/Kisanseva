@@ -44,13 +44,13 @@ function Footer () {
                   </p>
                   
                   <p>
-                    <a class="text-black" href="/blogsvideo">Blogs & videos</a>
+                    <a class="text-black" href="/Equipment">Equipment</a>
                   </p>
                   <p>
-                    <a class="text-black" href="..">News & Updates</a>
+                    <a class="text-black" href="/Fertilizer">Fertilizer</a>
                   </p>
                   <p>
-                    <a class="text-black" href="..">FAQs</a>
+                    <a class="text-black" href="/Contact us">Contact Us</a>
                   </p>
                 </div>
       

@@ -7,7 +7,7 @@ import "./../../Componant/Crops Product/Product1.css"
 
 <div>
 <div class="bannerhed">
-    <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
+    <img class="sugercaneimg" src="https://image.jimcdn.com/app/cms/image/transf/dimension=910x10000:format=jpg/path/se9e14e65290c25fe/image/ie70b3668899222c4/version/1522668631/image.jpg" alt=".."/>
     <div class="text-containt">
         <h1 class="heading">PLANT PROTECTION</h1>
         <p class="sub-heading">better harvest better tomorrow</p>

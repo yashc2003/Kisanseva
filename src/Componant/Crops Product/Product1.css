@@ -16,16 +16,18 @@
       position: absolute;
       height: 350px;
       width: 100%;
-      background-color: rgba(0, 0, 0, 0.507);
+      background-color: rgba(5, 4, 4, 0.507);
       border-radius: 100px 0 100px 0;
       top: 1px;
   }
   .heading{
       padding-left: 80px;
       padding-top: 100px;
+      text-align: center;
       color: rgba(250, 253, 255, 0.986);
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       font-size: 55px;
+      
   }
   .sub-heading{
       padding-left: 230px;

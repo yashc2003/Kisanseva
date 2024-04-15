@@ -13,7 +13,7 @@ import WeatherApp from './../../Componant/Weather app/WeatherApp'
             <Navbar/>
             
             <div class="bannerhed">
-    <img class="sugercaneimg" src="https://img.freepik.com/premium-photo/business-growth-progress-success-concept-invest-trading-illustration_10221-11576.jpg" alt=".."/>
+    <img class="sugercaneimg" src="http://www.tokkoro.com/picsup/3104832-agricultural-machinery_agriculture_arable-farming_farm_field_grain_harvest_harvest-time_heavy-equipment_industry_machine_pasture_plow_rural_tractor_vehicle.jpg" alt=".."/>
     <div class="text-containt">
         <h1 class="heading">ARIES AGRO AGRICULTURAL EQUIPMENT</h1>
         <p class="sub-heading">better harvest better tomorrow</p>
