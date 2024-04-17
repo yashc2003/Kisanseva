@@ -1,0 +1,12 @@
+.VidClass{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.video{
+    margin-bottom: 100px;
+    border: 10px solid #21ec54cc;
+    box-shadow: 5px 5px 5px 5px black ;
+    border-radius: 15px;
+}
