@@ -1,23 +1,24 @@
 import React from "react";
 import "./../../Componant/Navbar/Navbar.css"
-import Login from "./../../Componant/assets/login.png";
+
 import Translater from "./../../Componant/Google translater/TanslaterComponent"
 import Navbarimag from "./../../Componant/assets/kpng1.png";
+import Login from "./../login/login";
 
 
 function Navbar() {
     return (
       
-  <nav class="navbar navbar-expand-lg ">
+  <nav class="navbar navbar-expand-lg  ">
   <div class="container-fluid">
        <img class="navbar-img" src={Navbarimag} alt=".."/>
        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarScroll">
-      <ul class="navbar-nav me-auto my-2 my-lg-0 ">
-        <li class="nav-item">
-          <a class="nav-link text-black ms-2 me-2 " aria-disabled="true" href="..">Crops</a>
+      <ul class="navbar-nav me-auto my-2 my-lg-0 text-white ">
+        <li class="nav-item text-white">
+          <a class="nav-link text-white ms-2 me-2 text-bold" aria-disabled="true" href="..">Crops</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-black" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -54,7 +55,22 @@ function Navbar() {
        
       </ul>
       <Translater/>
-     <a href="/login"><img class="login-img" src={Login}/></a>
+     
+
+      <div className="">
+                <a 
+                  className="text-white bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-4 py-2.5 text-center me-2 mb-2"
+                  onClick={()=>document.getElementById('my_modal_3').showModal()}
+                >
+                  Login
+                </a>
+                
+                <Login />
+              
+
+              
+            </div>
+
     </div>
   </div>
 </nav>

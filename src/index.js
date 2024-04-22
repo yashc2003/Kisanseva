@@ -36,6 +36,10 @@ import Cauliflower from'./view/Crops/Cauliflower';
 import Chilli from './view/Crops/Chilli';
 import Turmeric from'./view/Crops/Turmeric';
 import Ginger from'./view/Crops/Ginger';
+import Login from './Componant/login/login';
+import Signup from './Componant/signup/signup';
+import  { Toaster } from 'react-hot-toast';
+
 const router = createBrowserRouter([
   
   {
@@ -178,12 +182,26 @@ const router = createBrowserRouter([
   {
     path: '/ginger',
     element: <Ginger />
+  },
+  {
+    path: '/login',
+    element: <Login />
+  },
+  {
+    path: '/signup',
+    element: <Signup />
+  },
+  {
+    path: '/Toaster',
+    element: <Toaster />
   }
+
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
      <RouterProvider router={router} />
+     <Toaster />
   </>
 );
