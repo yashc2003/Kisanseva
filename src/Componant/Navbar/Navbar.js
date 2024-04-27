@@ -1,80 +1,61 @@
 import React from "react";
 import "./../../Componant/Navbar/Navbar.css"
-
+import { Link } from 'react-router-dom';
 import Translater from "./../../Componant/Google translater/TanslaterComponent"
 import Navbarimag from "./../../Componant/assets/kpng1.png";
-import Login from "./../login/login";
-
 
 function Navbar() {
-    return (
-      
-  <nav class="navbar navbar-expand-lg  ">
-  <div class="container-fluid">
-       <img class="navbar-img" src={Navbarimag} alt=".."/>
-       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarScroll">
-      <ul class="navbar-nav me-auto my-2 my-lg-0 text-white ">
-        <li class="nav-item text-white">
-          <a class="nav-link text-white ms-2 me-2 text-bold" aria-disabled="true" href="..">Crops</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle text-black" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Product & Services
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/micronutrients">Micronutrients</a></li>
-            <li><a class="dropdown-item" href="/watersoluble">Water Soluble NPK</a></li>
-            <li><a class="dropdown-item" href="/organicproduct">Organic & Bio Product</a></li>
-            <li><a class="dropdown-item" href="/cropspecific">Crop Specific</a></li>
-            <li><a class="dropdown-item" href="/fertilizer">Slow Release Fertilizers Pastilles</a></li>
-            <li><a class="dropdown-item" href="/plantprotection">Plant Protectoin</a></li>
+  return (
+    <nav className="navbar navbar-expand-lg">
+      <div className="container-fluid">
+        <img className="navbar-img" src={Navbarimag} alt=".." />
+        <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+          <span className="navbar-toggler-icon"></span>
+        </button>
+        <div className="collapse navbar-collapse" id="navbarScroll">
+          <ul className="navbar-nav me-auto my-2 my-lg-0 text-white">
+            <li className="nav-item text-white">
+              <a className="nav-link text-black ms-2 me-2 text-bold" aria-disabled="true" href="..">Crops</a>
+            </li>
+            <li className="nav-item dropdown">
+              <a className="nav-link dropdown-toggle text-black" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Product & Services
+              </a>
+              <ul className="dropdown-menu">
+                <li><a className="dropdown-item" href="/micronutrients">Micronutrients</a></li>
+                <li><a className="dropdown-item" href="/watersoluble">Water Soluble NPK</a></li>
+                <li><a className="dropdown-item" href="/organicproduct">Organic & Bio Product</a></li>
+                <li><a className="dropdown-item" href="/cropspecific">Crop Specific</a></li>
+                <li><a className="dropdown-item" href="/fertilizer">Slow Release Fertilizers Pastilles</a></li>
+                <li><a className="dropdown-item" href="/plantprotection">Plant Protection</a></li>
+              </ul>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link text-black ms-2" aria-disabled="true" href="/equipment">Equipment</a>
+            </li>
+            <li className="nav-item dropdown">
+              <a className="nav-link dropdown-toggle text-black ms-2" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                About us
+              </a>
+              <ul className="dropdown-menu text-black">
+                <li><a className="dropdown-item" href="/infrastracture">Infrastructure</a></li>
+                <li><a className="dropdown-item" href="/hydroponic">Hydroponic & Consultancy</a></li>
+              </ul>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link text-black ms-2" aria-disabled="true" href="/contactus">Contact us</a>
+            </li>
           </ul>
-        </li>
-        
-       <li class="nav-item">
-          <a class="nav-link text-black ms-2" aria-disabled="true" href="/equipment">Equipment</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle text-black ms-2" href=".." role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            About us
-          </a>
-          <ul class="dropdown-menu text-black">
-            <li><a class="dropdown-item" href="/infrastracture">Infrastracture</a></li>
-            <li><a class="dropdown-item" href="/hydroponic">Hydroponic & Consultancy</a></li>
-           
-          </ul>
-        </li>  
-    
-        <li class="nav-item">
-          <a class="nav-link text-black ms-2" aria-disabled="true" href="/contactus">Contact us</a>
-        </li>
+          <Translater />
+          <div>
+            <a href="/login">
+              <button className="btn6">Login </button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  );
+}
 
-       
-      </ul>
-      <Translater/>
-     
-
-      <div className="">
-                <a 
-                  className="text-white bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-4 py-2.5 text-center me-2 mb-2"
-                  onClick={()=>document.getElementById('my_modal_3').showModal()}
-                >
-                  Login
-                </a>
-                
-                <Login />
-              
-
-              
-            </div>
-
-    </div>
-  </div>
-</nav>
-    )
-  }
-  
-  export default Navbar;
+export default Navbar;
