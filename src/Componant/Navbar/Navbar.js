@@ -1,6 +1,6 @@
 import React from "react";
 import "./../../Componant/Navbar/Navbar.css"
-import { Link } from 'react-router-dom';
+
 import Translater from "./../../Componant/Google translater/TanslaterComponent"
 import Navbarimag from "./../../Componant/assets/kpng1.png";
 
