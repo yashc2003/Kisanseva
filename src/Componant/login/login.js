@@ -87,7 +87,7 @@ function Login() {
 
             {/* Button */}
             <div class="d-flex justify-content-between mt-4">
-              <button class="btn6">
+              <button class="btn7 ">
                 Login
               </button>
               <p class="mt-2 me-5">

@@ -96,7 +96,7 @@ function Signup() {
                 )}
               </div>
               <div className="d-flex justify-content-between mt-4 me-5">
-                <button className="btn6">Signup</button>
+                <button className="btn7">Signup</button>
                 <p className="">
                   Have an account?{' '}
                   

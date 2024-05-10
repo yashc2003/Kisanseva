@@ -34,10 +34,11 @@
   padding-left: 15px;
   width: 50px;
 }
-.btn6{
+.btn7{
+    background-color:  rgba(112, 183, 206, 0.95);
+
     margin-left: 90px;
     border-radius: 20px;
-    background-color: rgba(255, 0, 170, 0.726);
-    border-color: rgba(212, 172, 200, 0.692);
-
-}
+    height: 40px;
+    width: 100px;
+    border-color: rgb(255, 187, 0);}

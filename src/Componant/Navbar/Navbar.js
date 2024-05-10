@@ -49,7 +49,7 @@ function Navbar() {
           <Translater />
           <div>
             <a href="/login">
-              <button className="btn6">Login </button>
+              <button className="btn7">Login </button>
             </a>
           </div>
         </div>
