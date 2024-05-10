@@ -62,7 +62,7 @@ function Login() {
               />
               <br />
               {errors.email && (
-                <span class="text-sm text-danger">
+                <span class="text-sm text-danger ms-5">
                   This field is required
                 </span>
               )}
@@ -79,7 +79,7 @@ function Login() {
               />
               <br />
               {errors.password && (
-                <span class="text-sm text-danger">
+                <span class="text-sm text-danger ms-5">
                   This field is required
                 </span>
               )}
@@ -87,9 +87,9 @@ function Login() {
 
             {/* Button */}
             <div class="d-flex justify-content-between mt-4">
-              <button class="btn7 ">
-                Login
-              </button>
+              <button class="btn9 " >
+                  Login
+            </button>
               <p class="mt-2 me-5">
                 Not registered?{" "}
                 <Link to="/signup" class="">

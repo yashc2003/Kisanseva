@@ -62,7 +62,7 @@ function Signup() {
                   {...register('fullname', { required: true })}
                 />
                 {errors.fullname && (
-                  <span className="text-danger">This field is required</span>
+                  <span className="text-danger ms-5">This field is required</span>
                 )}
               </div>
               <div className="mt-4">
@@ -77,7 +77,7 @@ function Signup() {
                   {...register('email', { required: true })}
                 />
                 {errors.email && (
-                  <span className="text-danger">This field is required</span>
+                  <span className="text-danger ms-5">This field is required</span>
                 )}
               </div>
               <div className="mt-4">
@@ -92,11 +92,11 @@ function Signup() {
                   {...register('password', { required: true })}
                 />
                 {errors.password && (
-                  <span className="text-danger">This field is required</span>
+                  <span className="text-danger ms-5">This field is required</span>
                 )}
               </div>
               <div className="d-flex justify-content-between mt-4 me-5">
-                <button className="btn7">Signup</button>
+                <button className="btn9">Signup</button>
                 <p className="">
                   Have an account?{' '}
                   

@@ -36,10 +36,9 @@
   width: 50px;
 }
 .btn7{
-    background-color:  rgba(112, 183, 206, 0.95);
-
+    background-color:  rgba(71, 189, 20, 0.778);
     margin-left: 90px;
-    border-radius: 20px;
-    height: 40px;
+    border-radius: 15px;
+    height: 50px;
     width: 100px;
-    border-color: rgb(255, 187, 0);}
+    border-color: rgba(99, 98, 97, 0.382);}
