@@ -37,17 +37,17 @@ import WeatherApp from './../../Componant/Weather app/WeatherApp'
         </div>
        
         <div class="card1">
-            <img src="https://avatars.githubusercontent.com/u/124059426?v=4" class="image" /><br /><br />
-            <b class="name">Pushpak Parkhe</b><br /><br />
-            <p class="info">Hii! I am pushpak parkhe. I am currently pursuing Bca (final) from GHRUA, Nagpur
+            <img src="https://avatars.githubusercontent.com/u/137850472?v=4" class="image" /><br /><br />
+            <b class="name">Sahil Gonde</b><br /><br />
+            <p class="info">Hii! I am Sahil Gonde. I am currently pursuing Bca (final) from GHRUA, Nagpur
             </p>
             <div class="social-contact">
                 <ul>
-                    <li><a href="https://github.com/Pushpakparkhe" target="blank"><img class="social-media-img "
+                    <li><a href="https://github.com/sahilgonde" target="blank"><img class="social-media-img "
                                 src="https://th.bing.com/th/id/OIP.7MTPJSqWfwQ7fMIpVgSGrAAAAA?rs=1&pid=ImgDetMain" /></a></li>
-                    <li><a href="https://wa.me/+918530455768" target="blank"><img class="social-media-img "
+                    <li><a href="https://wa.me/+917517569936" target="blank"><img class="social-media-img "
                                 src="https://logos-world.net/wp-content/uploads/2020/05/Logo-WhatsApp.png" /></a></li>
-                    <li><a href="mailto:pushpakparkhe2@gmail.com" target="blank"><img class="social-media-img "
+                    <li><a href="mailto:sahilgonde@gmail.com" target="blank"><img class="social-media-img "
                                 src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" /></a></li>
                 </ul>
             </div>
@@ -55,8 +55,8 @@ import WeatherApp from './../../Componant/Weather app/WeatherApp'
         </div>
         <div class="card1">
             <img src="https://avatars.githubusercontent.com/u/124059426?v=4" class="image" /><br /><br />
-            <b class="name">Pushpak Parkhe</b><br /><br />
-            <p class="info">Hii! I am pushpak parkhe. I am currently pursuing Bca (final) from GHRUA, Nagpur
+            <b class="name">Yash Chaudhri</b><br /><br />
+            <p class="info">Hii! I am Yash Chaudhri. I am currently pursuing Bca (final) from GHRUA, Nagpur
             </p>
             <div class="social-contact">
                 <ul>
